@@ -1,0 +1,20 @@
+{
+  "adult_init/fold0_seed2026/BraTS-PED-00001-000.nii.gz": "2738e1c4ce24f8d965017bb065ed907ba57a4c1f3b5ea682c7c508c6f89d8301",
+  "adult_init/fold0_seed2026/BraTS-PED-00055-000.nii.gz": "38b783ceb255d651b10871f320520978ce9f57ad98000a0187a3eb71b4db5f24",
+  "adult_init/fold0_seed2026/BraTS-PED-00075-000.nii.gz": "969ec196ef03cc62f280e507b4b12ed6bdef760842937d512b80d1e4b2355af1",
+  "b0/fold0_seed2026/BraTS-PED-00001-000.nii.gz": "c6b8d0afdb793df6c30d7f725be34c0afe7db7f63b6933292010f1e1f15124f3",
+  "b0/fold0_seed2026/BraTS-PED-00055-000.nii.gz": "66c42d254de6e98d8fa3322da7871ff721dad54357d27f4940ed846b840887fb",
+  "b0/fold0_seed2026/BraTS-PED-00075-000.nii.gz": "5306d0e7e22aafe3974e43cfcd54d8144d1ea63e0716d8044f602fddf6c830bc",
+  "adult_init/fold0_seed2027/BraTS-PED-00001-000.nii.gz": "a1c18214348504628d234881e25f386e3aa6fd260fb78f74040a8614f3825a2b",
+  "adult_init/fold0_seed2027/BraTS-PED-00055-000.nii.gz": "a60c2fed9aeb80cbf599fdb63cda7d13d7d01f0cbe06599641827533c5174fe3",
+  "adult_init/fold0_seed2027/BraTS-PED-00075-000.nii.gz": "7fae1ee85532d2b42ad33d6cb3ec1bdbb717f90bda25ff0b2e22ddd5c0116861",
+  "b0/fold0_seed2027/BraTS-PED-00001-000.nii.gz": "b69146f438cce9ff4e8f54a91b9e11c55085f0657beae9f1f32aa0c51d45e0b0",
+  "b0/fold0_seed2027/BraTS-PED-00055-000.nii.gz": "098574fcff95fa1c10bb27498c13ab06e779255d172ce8deb27757a58fd22a68",
+  "b0/fold0_seed2027/BraTS-PED-00075-000.nii.gz": "9b62172b8fc7b50f0ad1ff476290f15c7a55e5fa59c12dc1e75f39d471d005e3",
+  "adult_init/fold0_seed2028/BraTS-PED-00001-000.nii.gz": "ea051c1a5c54105d8e83d7501b170348e84885804de1564db044b160e3b6776a",
+  "adult_init/fold0_seed2028/BraTS-PED-00055-000.nii.gz": "43c4c7ebeab773b1dbc97beb15b351f5c97cdbf764971c05d646dc8bf3789240",
+  "adult_init/fold0_seed2028/BraTS-PED-00075-000.nii.gz": "18d0555b0cb8268f2a8eb2f8c19334a6fce35b19442205d9aa6c51a0e9faac04",
+  "b0/fold0_seed2028/BraTS-PED-00001-000.nii.gz": "abf828d94f2f059c058778b7957de17b0b713c755287da8eff751bf2acf59d53",
+  "b0/fold0_seed2028/BraTS-PED-00055-000.nii.gz": "de018f8dd62abad4caab97f3b422873709fb95167dcab444a0fd2a99ff843d78",
+  "b0/fold0_seed2028/BraTS-PED-00075-000.nii.gz": "9fa69858af483078a1b0b2e43224e14ae959ed3f0510175dfcb9c1c983536de5"
+}

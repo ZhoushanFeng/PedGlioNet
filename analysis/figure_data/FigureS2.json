@@ -1,0 +1,93 @@
+{
+  "n_examinations": 171,
+  "group_counts": {
+    "CBTN": 87,
+    "DFCI": 35,
+    "DIPGr": 49
+  },
+  "feature_columns": [
+    "WT_dice",
+    "WT_nsd_1mm",
+    "ET_dice",
+    "ET_nsd_1mm"
+  ],
+  "feature_means": {
+    "WT_dice": 0.8770510505037795,
+    "WT_nsd_1mm": 0.7110352312238859,
+    "ET_dice": 0.5987779520962927,
+    "ET_nsd_1mm": 0.61952001130949
+  },
+  "feature_sample_sd": {
+    "WT_dice": 0.15707925043546514,
+    "WT_nsd_1mm": 0.23321220196204936,
+    "ET_dice": 0.33799128617312774,
+    "ET_nsd_1mm": 0.3515392722045595
+  },
+  "variance_fraction": [
+    0.6152851617220404,
+    0.3245390045519437,
+    0.05314238130671602,
+    0.007033452419299836
+  ],
+  "first_two_fraction": 0.9398241662739841,
+  "ellipses": {
+    "CBTN": {
+      "n": 87,
+      "mean": [
+        -0.057228183801191095,
+        -0.09075935246669264
+      ],
+      "covariance": [
+        [
+          1.6449980153568888,
+          0.3990244888935469
+        ],
+        [
+          0.3990244888935469,
+          0.8981491658367916
+        ]
+      ],
+      "nominal_normal_reference_probability": 0.95,
+      "empirical_fraction_inside": 0.9770114942528736
+    },
+    "DFCI": {
+      "n": 35,
+      "mean": [
+        -0.899064314411524,
+        0.9171917883374013
+      ],
+      "covariance": [
+        [
+          2.991343018407514,
+          -0.4137692369761794
+        ],
+        [
+          -0.4137692369761794,
+          1.3010700544654745
+        ]
+      ],
+      "nominal_normal_reference_probability": 0.95,
+      "empirical_fraction_inside": 0.9142857142857143
+    },
+    "DIPGr": {
+      "n": 49,
+      "mean": [
+        0.7437980203083059,
+        -0.49399283524911847
+      ],
+      "covariance": [
+        [
+          2.4902888679415374,
+          0.5451205959326285
+        ],
+        [
+          0.5451205959326285,
+          1.1894130631859539
+        ]
+      ],
+      "nominal_normal_reference_probability": 0.95,
+      "empirical_fraction_inside": 0.9591836734693877
+    }
+  },
+  "boxplots": "Median, quartiles, whiskers to 1.5 IQR; outlying coordinates shown"
+}

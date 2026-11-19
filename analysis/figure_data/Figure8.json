@@ -1,0 +1,1498 @@
+{
+  "A": {
+    "n": 171,
+    "omissions": 21,
+    "omissions_wt_ge_0p9": 11,
+    "coordinates": "Observed ensemble values; no jitter or synthetic points.",
+    "cases": [
+      {
+        "case_id": "BraTS-PED-00001-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.8436781881968588,
+        "et_dice": 0.0,
+        "all_three_empty": true
+      },
+      {
+        "case_id": "BraTS-PED-00002-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.9066923899157912,
+        "et_dice": 0.568597889295714,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00003-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.8987267985887406,
+        "et_dice": 0.8606537232735316,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00004-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.7581628210709621,
+        "et_dice": 0.20382969769236164,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00005-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.8554096876414667,
+        "et_dice": 0.8115340457475934,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00009-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.8521115801350011,
+        "et_dice": 0.7263585327301466,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00010-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.9472747345741758,
+        "et_dice": 0.6980042016806722,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00014-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.8662370383500246,
+        "et_dice": 0.0,
+        "all_three_empty": true
+      },
+      {
+        "case_id": "BraTS-PED-00017-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.6020630753872888,
+        "et_dice": 0.5028271736458247,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00018-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.928857515734794,
+        "et_dice": 0.9165927119315156,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00019-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.9343841123142858,
+        "et_dice": 0.7734738036962151,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00020-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.9385490473293988,
+        "et_dice": 0.5160178306092125,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00021-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.9384268999372531,
+        "et_dice": 0.9077688827641229,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00024-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.605904006795979,
+        "et_dice": 0.0,
+        "all_three_empty": true
+      },
+      {
+        "case_id": "BraTS-PED-00026-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.8611729769858946,
+        "et_dice": 0.8997942306945684,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00027-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.961398713290443,
+        "et_dice": 0.8172426077662985,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00028-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.8918634300233472,
+        "et_dice": 0.8300868770004572,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00029-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.9544397554043579,
+        "et_dice": 0.8648442466624284,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00030-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.9034786108555658,
+        "et_dice": 0.6232879758093205,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00031-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.8414677566863773,
+        "et_dice": 0.502147225957576,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00032-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.8310421536305361,
+        "et_dice": 0.7492881617682544,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00033-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.9194574009049141,
+        "et_dice": 0.5404059040590405,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00034-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.8608069324862772,
+        "et_dice": 0.7757243352807917,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00035-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.9189380687731107,
+        "et_dice": 0.8030431929219027,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00036-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.9275995106803425,
+        "et_dice": 0.6929442508710801,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00038-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.8990790186518072,
+        "et_dice": 0.6197743861977438,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00040-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.8887045505242025,
+        "et_dice": 0.7790494959448192,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00041-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.8399644004179081,
+        "et_dice": 0.0,
+        "all_three_empty": true
+      },
+      {
+        "case_id": "BraTS-PED-00042-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.9281991561825853,
+        "et_dice": 0.0,
+        "all_three_empty": true
+      },
+      {
+        "case_id": "BraTS-PED-00043-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.8748652176380455,
+        "et_dice": 0.0,
+        "all_three_empty": true
+      },
+      {
+        "case_id": "BraTS-PED-00044-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.9116007112932879,
+        "et_dice": 0.4580152671755725,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00045-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.9588554588617558,
+        "et_dice": 0.8447001590420058,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00047-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.894313750854693,
+        "et_dice": 0.8378529807261318,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00048-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.9102464816941277,
+        "et_dice": 0.868299711815562,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00049-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.9326759435378916,
+        "et_dice": 0.20297029702970298,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00050-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.8884542926347896,
+        "et_dice": 0.677115987460815,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00051-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.9334879919858698,
+        "et_dice": 0.5238151799501128,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00053-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.9148435987498963,
+        "et_dice": 0.7712871287128713,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00055-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.9429117147707979,
+        "et_dice": 0.8040523844823326,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00056-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.9617143527204502,
+        "et_dice": 0.8538784254217621,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00060-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.9248420081911634,
+        "et_dice": 0.894699378351445,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00061-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.8589648602878917,
+        "et_dice": 0.7275511624669359,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00062-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.9323790720631787,
+        "et_dice": 0.08775981524249422,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00063-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.949726507282896,
+        "et_dice": 0.6471614028289091,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00064-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.9494538414797857,
+        "et_dice": 0.8529621698786581,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00067-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.9439294724608102,
+        "et_dice": 0.6823240732626413,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00070-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.8804983666337461,
+        "et_dice": 0.737487600324646,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00071-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.9675673378012667,
+        "et_dice": 0.86,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00073-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.9288734433825658,
+        "et_dice": 0.7038507594378269,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00075-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.9142321286878742,
+        "et_dice": 0.0,
+        "all_three_empty": true
+      },
+      {
+        "case_id": "BraTS-PED-00076-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.9487645737512034,
+        "et_dice": 0.0,
+        "all_three_empty": true
+      },
+      {
+        "case_id": "BraTS-PED-00078-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.9422177243956785,
+        "et_dice": 0.0,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00079-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.9285328165638227,
+        "et_dice": 0.7904577691811734,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00080-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.8790960451977401,
+        "et_dice": 0.7715867158671587,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00081-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.9462499721560154,
+        "et_dice": 0.8675442782159598,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00082-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.9272928232947544,
+        "et_dice": 0.9286435433968409,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00083-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.9176190790777565,
+        "et_dice": 0.863368260356672,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00084-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.9568481798757963,
+        "et_dice": 0.0,
+        "all_three_empty": true
+      },
+      {
+        "case_id": "BraTS-PED-00085-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.9235407312379731,
+        "et_dice": 0.5683501683501684,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00088-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.9028274650097282,
+        "et_dice": 0.8035201597803021,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00089-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.9236540055539686,
+        "et_dice": 0.8770237826524121,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00091-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.9273659183951005,
+        "et_dice": 0.5247790334637878,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00092-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.9383349015714487,
+        "et_dice": 0.019214635598495306,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00093-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.838472610757647,
+        "et_dice": 0.449327857175333,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00094-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.8977382476472834,
+        "et_dice": 0.8686506626420789,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00095-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.06297201243891604,
+        "et_dice": 0.0,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00096-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.8589850438682891,
+        "et_dice": 0.7953748355984217,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00097-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.913668531725669,
+        "et_dice": 0.0011598144296912495,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00098-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.9294254104211278,
+        "et_dice": 0.39846698113207546,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00099-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.8718400173894142,
+        "et_dice": 0.8445545865571972,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00100-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.8110135064754695,
+        "et_dice": 0.7664329285673565,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00101-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.8895646803113669,
+        "et_dice": 0.8446701156032446,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00103-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.8429028766208342,
+        "et_dice": 0.7080787508486083,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00104-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.8720543324672957,
+        "et_dice": 0.8322923173016864,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00105-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.9281126751128342,
+        "et_dice": 0.3267543859649123,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00106-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.8938481620278749,
+        "et_dice": 0.8036449147560258,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00107-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.8993704837151933,
+        "et_dice": 0.0,
+        "all_three_empty": true
+      },
+      {
+        "case_id": "BraTS-PED-00108-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.9374363073234089,
+        "et_dice": 0.48676097207109176,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00109-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.8877149242159352,
+        "et_dice": 0.7752655862601185,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00110-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.9236462351764538,
+        "et_dice": 0.0,
+        "all_three_empty": true
+      },
+      {
+        "case_id": "BraTS-PED-00112-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.8397536631981313,
+        "et_dice": 0.6097687711093791,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00113-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.9282044750137987,
+        "et_dice": 0.7453822772971709,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00114-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.9358012170385396,
+        "et_dice": 0.820054945054945,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00118-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.8870762246467013,
+        "et_dice": 0.0,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00119-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.9003217859118106,
+        "et_dice": 0.8011560693641618,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00120-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.9515683468652194,
+        "et_dice": 0.5862026712412695,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00122-000",
+        "fold": 0,
+        "source": "CBTN",
+        "wt_dice": 0.898197966618506,
+        "et_dice": 0.6186966769578063,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00125-000",
+        "fold": 1,
+        "source": "DFCI-BCH-BWH-PEDs-HGG",
+        "wt_dice": 0.5280190554650143,
+        "et_dice": 0.8076202101224988,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00126-000",
+        "fold": 1,
+        "source": "DFCI-BCH-BWH-PEDs-HGG",
+        "wt_dice": 0.8740560970142909,
+        "et_dice": 0.6138717805151176,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00127-000",
+        "fold": 1,
+        "source": "DFCI-BCH-BWH-PEDs-HGG",
+        "wt_dice": 0.901833888085073,
+        "et_dice": 0.778263585259213,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00129-000",
+        "fold": 1,
+        "source": "DFCI-BCH-BWH-PEDs-HGG",
+        "wt_dice": 0.8964293171852161,
+        "et_dice": 0.846760551002922,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00131-000",
+        "fold": 1,
+        "source": "DFCI-BCH-BWH-PEDs-HGG",
+        "wt_dice": 0.7850886094446384,
+        "et_dice": 0.8539300573484764,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00133-000",
+        "fold": 1,
+        "source": "DFCI-BCH-BWH-PEDs-HGG",
+        "wt_dice": 0.7456437636871966,
+        "et_dice": 0.620578034682081,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00134-000",
+        "fold": 1,
+        "source": "DFCI-BCH-BWH-PEDs-HGG",
+        "wt_dice": 0.6891521252464752,
+        "et_dice": 0.08140192198982477,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00136-000",
+        "fold": 1,
+        "source": "DFCI-BCH-BWH-PEDs-HGG",
+        "wt_dice": 0.6341527736372601,
+        "et_dice": 0.8428612467681701,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00138-000",
+        "fold": 1,
+        "source": "DFCI-BCH-BWH-PEDs-HGG",
+        "wt_dice": 0.9257168354479494,
+        "et_dice": 0.8143001258175305,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00139-000",
+        "fold": 1,
+        "source": "DFCI-BCH-BWH-PEDs-HGG",
+        "wt_dice": 0.9035360018671957,
+        "et_dice": 0.3786407766990291,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00140-000",
+        "fold": 1,
+        "source": "DFCI-BCH-BWH-PEDs-HGG",
+        "wt_dice": 0.6879175415155564,
+        "et_dice": 0.5091072633235889,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00141-000",
+        "fold": 1,
+        "source": "DFCI-BCH-BWH-PEDs-HGG",
+        "wt_dice": 0.8104237383158517,
+        "et_dice": 0.697007863294414,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00142-000",
+        "fold": 1,
+        "source": "DFCI-BCH-BWH-PEDs-HGG",
+        "wt_dice": 0.8938291482181008,
+        "et_dice": 0.6735340729001584,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00143-000",
+        "fold": 1,
+        "source": "DFCI-BCH-BWH-PEDs-HGG",
+        "wt_dice": 0.8897883190998502,
+        "et_dice": 0.75130958617077,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00145-000",
+        "fold": 1,
+        "source": "DFCI-BCH-BWH-PEDs-HGG",
+        "wt_dice": 0.812752661740534,
+        "et_dice": 0.8622862286228623,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00146-000",
+        "fold": 1,
+        "source": "DFCI-BCH-BWH-PEDs-HGG",
+        "wt_dice": 0.7436966259616506,
+        "et_dice": 0.5549062903920724,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00147-000",
+        "fold": 1,
+        "source": "DFCI-BCH-BWH-PEDs-HGG",
+        "wt_dice": 0.27264659703734045,
+        "et_dice": 0.8762214983713354,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00148-000",
+        "fold": 1,
+        "source": "DFCI-BCH-BWH-PEDs-HGG",
+        "wt_dice": 0.8688979304109296,
+        "et_dice": 0.3586819168583741,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00153-000",
+        "fold": 1,
+        "source": "DFCI-BCH-BWH-PEDs-HGG",
+        "wt_dice": 0.518139422866401,
+        "et_dice": 0.0,
+        "all_three_empty": true
+      },
+      {
+        "case_id": "BraTS-PED-00155-000",
+        "fold": 1,
+        "source": "DFCI-BCH-BWH-PEDs-HGG",
+        "wt_dice": 0.5802995333479337,
+        "et_dice": 0.005082038623493539,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00159-000",
+        "fold": 1,
+        "source": "DFCI-BCH-BWH-PEDs-HGG",
+        "wt_dice": 0.9276901004304161,
+        "et_dice": 0.7928931317952798,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00161-000",
+        "fold": 1,
+        "source": "DFCI-BCH-BWH-PEDs-HGG",
+        "wt_dice": 0.9077746925823086,
+        "et_dice": 0.8570354592156372,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00162-000",
+        "fold": 1,
+        "source": "DFCI-BCH-BWH-PEDs-HGG",
+        "wt_dice": 0.0,
+        "et_dice": 0.0,
+        "all_three_empty": true
+      },
+      {
+        "case_id": "BraTS-PED-00164-000",
+        "fold": 1,
+        "source": "DFCI-BCH-BWH-PEDs-HGG",
+        "wt_dice": 0.2277432712215321,
+        "et_dice": 0.0,
+        "all_three_empty": true
+      },
+      {
+        "case_id": "BraTS-PED-00165-000",
+        "fold": 1,
+        "source": "DFCI-BCH-BWH-PEDs-HGG",
+        "wt_dice": 0.9049837925445705,
+        "et_dice": 0.9149345411677111,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00166-000",
+        "fold": 1,
+        "source": "DFCI-BCH-BWH-PEDs-HGG",
+        "wt_dice": 0.913490143191464,
+        "et_dice": 0.7602459016393442,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00167-000",
+        "fold": 1,
+        "source": "DFCI-BCH-BWH-PEDs-HGG",
+        "wt_dice": 0.9145265104020691,
+        "et_dice": 0.7708955042822137,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00168-000",
+        "fold": 1,
+        "source": "DFCI-BCH-BWH-PEDs-HGG",
+        "wt_dice": 0.8553426806019389,
+        "et_dice": 0.42154182613449975,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00169-000",
+        "fold": 1,
+        "source": "DFCI-BCH-BWH-PEDs-HGG",
+        "wt_dice": 0.9005214681025354,
+        "et_dice": 0.9309660344067049,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00170-000",
+        "fold": 1,
+        "source": "DFCI-BCH-BWH-PEDs-HGG",
+        "wt_dice": 0.9182755551826537,
+        "et_dice": 0.8362448418156809,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00173-000",
+        "fold": 1,
+        "source": "DFCI-BCH-BWH-PEDs-HGG",
+        "wt_dice": 0.8574259182587094,
+        "et_dice": 0.6002621231979031,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00175-000",
+        "fold": 1,
+        "source": "DFCI-BCH-BWH-PEDs-HGG",
+        "wt_dice": 0.8874988152781726,
+        "et_dice": 0.0,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00176-000",
+        "fold": 1,
+        "source": "DFCI-BCH-BWH-PEDs-HGG",
+        "wt_dice": 0.7125896004118649,
+        "et_dice": 0.6164989182579249,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00177-000",
+        "fold": 1,
+        "source": "DFCI-BCH-BWH-PEDs-HGG",
+        "wt_dice": 0.8742628617908222,
+        "et_dice": 0.8638917897458849,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00184-000",
+        "fold": 1,
+        "source": "DFCI-BCH-BWH-PEDs-HGG",
+        "wt_dice": 0.9317169796371128,
+        "et_dice": 0.0,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00188-000",
+        "fold": 2,
+        "source": "DIPGr",
+        "wt_dice": 0.04556952744070095,
+        "et_dice": 0.0,
+        "all_three_empty": true
+      },
+      {
+        "case_id": "BraTS-PED-00189-000",
+        "fold": 2,
+        "source": "DIPGr",
+        "wt_dice": 0.9206308827270414,
+        "et_dice": 0.9768543830872972,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00190-000",
+        "fold": 2,
+        "source": "DIPGr",
+        "wt_dice": 0.982844459515699,
+        "et_dice": 0.9519814352017136,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00191-000",
+        "fold": 2,
+        "source": "DIPGr",
+        "wt_dice": 0.975140456953288,
+        "et_dice": 0.7473841554559043,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00193-000",
+        "fold": 2,
+        "source": "DIPGr",
+        "wt_dice": 0.9538144059746471,
+        "et_dice": 0.8778359511343804,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00195-000",
+        "fold": 2,
+        "source": "DIPGr",
+        "wt_dice": 0.9577083462998693,
+        "et_dice": 0.9468421052631579,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00196-000",
+        "fold": 2,
+        "source": "DIPGr",
+        "wt_dice": 0.9749108589951377,
+        "et_dice": 0.9037520391517129,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00198-000",
+        "fold": 2,
+        "source": "DIPGr",
+        "wt_dice": 0.9739222990952634,
+        "et_dice": 0.9042745334136063,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00199-000",
+        "fold": 2,
+        "source": "DIPGr",
+        "wt_dice": 0.9494718356703828,
+        "et_dice": 0.0,
+        "all_three_empty": true
+      },
+      {
+        "case_id": "BraTS-PED-00200-000",
+        "fold": 2,
+        "source": "DIPGr",
+        "wt_dice": 0.7968510377262039,
+        "et_dice": 0.0,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00201-000",
+        "fold": 2,
+        "source": "DIPGr",
+        "wt_dice": 0.9506469880578622,
+        "et_dice": 0.9069169960474308,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00205-000",
+        "fold": 2,
+        "source": "DIPGr",
+        "wt_dice": 0.9746329650370819,
+        "et_dice": 0.18571428571428572,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00206-000",
+        "fold": 2,
+        "source": "DIPGr",
+        "wt_dice": 0.9766246031954247,
+        "et_dice": 0.9304677623261695,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00208-000",
+        "fold": 2,
+        "source": "DIPGr",
+        "wt_dice": 0.9539878659049643,
+        "et_dice": 0.9016712009327633,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00210-000",
+        "fold": 2,
+        "source": "DIPGr",
+        "wt_dice": 0.9590032860632259,
+        "et_dice": 0.4553314121037464,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00211-000",
+        "fold": 2,
+        "source": "DIPGr",
+        "wt_dice": 0.9620876415558838,
+        "et_dice": 0.8943089430894309,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00214-000",
+        "fold": 2,
+        "source": "DIPGr",
+        "wt_dice": 0.9763663009917332,
+        "et_dice": 0.0,
+        "all_three_empty": true
+      },
+      {
+        "case_id": "BraTS-PED-00216-000",
+        "fold": 2,
+        "source": "DIPGr",
+        "wt_dice": 0.968156988142142,
+        "et_dice": 0.9072164948453608,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00217-000",
+        "fold": 2,
+        "source": "DIPGr",
+        "wt_dice": 0.9829246427253072,
+        "et_dice": 0.888283378746594,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00218-000",
+        "fold": 2,
+        "source": "DIPGr",
+        "wt_dice": 0.7975735197151523,
+        "et_dice": 0.8759001842237482,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00219-000",
+        "fold": 2,
+        "source": "DIPGr",
+        "wt_dice": 0.9805530552008541,
+        "et_dice": 0.0,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00220-000",
+        "fold": 2,
+        "source": "DIPGr",
+        "wt_dice": 0.9390999730530855,
+        "et_dice": 0.8884150675195451,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00221-000",
+        "fold": 2,
+        "source": "DIPGr",
+        "wt_dice": 0.9821837113364918,
+        "et_dice": 0.9309653394442853,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00223-000",
+        "fold": 2,
+        "source": "DIPGr",
+        "wt_dice": 0.9204566722814898,
+        "et_dice": 0.24175824175824176,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00224-000",
+        "fold": 2,
+        "source": "DIPGr",
+        "wt_dice": 0.9604687304621211,
+        "et_dice": 0.37549407114624506,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00226-000",
+        "fold": 2,
+        "source": "DIPGr",
+        "wt_dice": 0.9801511466296039,
+        "et_dice": 0.9329726480312593,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00227-000",
+        "fold": 2,
+        "source": "DIPGr",
+        "wt_dice": 0.938085848627332,
+        "et_dice": 0.0,
+        "all_three_empty": true
+      },
+      {
+        "case_id": "BraTS-PED-00228-000",
+        "fold": 2,
+        "source": "DIPGr",
+        "wt_dice": 0.9615442879092817,
+        "et_dice": 0.9209905660377359,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00230-000",
+        "fold": 2,
+        "source": "DIPGr",
+        "wt_dice": 0.9715681520196849,
+        "et_dice": 0.3711340206185567,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00231-000",
+        "fold": 2,
+        "source": "DIPGr",
+        "wt_dice": 0.9700249320036265,
+        "et_dice": 0.9428090832632464,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00232-000",
+        "fold": 2,
+        "source": "DIPGr",
+        "wt_dice": 0.9707317633280133,
+        "et_dice": 0.8534789836143434,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00235-000",
+        "fold": 2,
+        "source": "DIPGr",
+        "wt_dice": 0.9855672422520951,
+        "et_dice": 0.9198656429942419,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00236-000",
+        "fold": 2,
+        "source": "DIPGr",
+        "wt_dice": 0.9542589148918751,
+        "et_dice": 0.0,
+        "all_three_empty": true
+      },
+      {
+        "case_id": "BraTS-PED-00237-000",
+        "fold": 2,
+        "source": "DIPGr",
+        "wt_dice": 0.9491181060628368,
+        "et_dice": 0.8355899419729207,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00238-000",
+        "fold": 2,
+        "source": "DIPGr",
+        "wt_dice": 0.9761572712761488,
+        "et_dice": 0.0,
+        "all_three_empty": true
+      },
+      {
+        "case_id": "BraTS-PED-00239-000",
+        "fold": 2,
+        "source": "DIPGr",
+        "wt_dice": 0.9781462771798815,
+        "et_dice": 0.8638221039627483,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00242-000",
+        "fold": 2,
+        "source": "DIPGr",
+        "wt_dice": 0.9258745141588006,
+        "et_dice": 0.870687237026648,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00243-000",
+        "fold": 2,
+        "source": "DIPGr",
+        "wt_dice": 0.9599590217533458,
+        "et_dice": 0.7842465753424658,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00244-000",
+        "fold": 2,
+        "source": "DIPGr",
+        "wt_dice": 0.9846769964243146,
+        "et_dice": 0.8709527292068346,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00245-000",
+        "fold": 2,
+        "source": "DIPGr",
+        "wt_dice": 0.9806877320854213,
+        "et_dice": 0.7645875251509054,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00248-000",
+        "fold": 2,
+        "source": "DIPGr",
+        "wt_dice": 0.9741524981746115,
+        "et_dice": 0.9233690492336905,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00254-000",
+        "fold": 2,
+        "source": "DIPGr",
+        "wt_dice": 0.9516291390728476,
+        "et_dice": 0.958462492250465,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00256-000",
+        "fold": 2,
+        "source": "DIPGr",
+        "wt_dice": 0.9801601658371549,
+        "et_dice": 0.9151255358236374,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00257-000",
+        "fold": 2,
+        "source": "DIPGr",
+        "wt_dice": 0.9647550188143974,
+        "et_dice": 0.9427945288294416,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00258-000",
+        "fold": 2,
+        "source": "DIPGr",
+        "wt_dice": 0.974275870868955,
+        "et_dice": 0.9354045307443366,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00261-000",
+        "fold": 2,
+        "source": "DIPGr",
+        "wt_dice": 0.9729320461858793,
+        "et_dice": 0.9004025451240099,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00262-000",
+        "fold": 2,
+        "source": "DIPGr",
+        "wt_dice": 0.9133995291227351,
+        "et_dice": 0.7849312338050628,
+        "all_three_empty": false
+      },
+      {
+        "case_id": "BraTS-PED-00264-000",
+        "fold": 2,
+        "source": "DIPGr",
+        "wt_dice": 0.9760877627906068,
+        "et_dice": 0.0,
+        "all_three_empty": true
+      },
+      {
+        "case_id": "BraTS-PED-00265-000",
+        "fold": 2,
+        "source": "DIPGr",
+        "wt_dice": 0.9297311117739805,
+        "et_dice": 0.0,
+        "all_three_empty": false
+      }
+    ]
+  },
+  "B": {
+    "rows": [
+      {
+        "target": "ET_positive",
+        "signal": "mean_entropy",
+        "label": "Entropy",
+        "n": 171,
+        "failures": 49,
+        "auroc": 0.43225158916025425,
+        "ci95": [
+          0.32669801634251644,
+          0.5302683609131023
+        ]
+      },
+      {
+        "target": "ET_positive",
+        "signal": "et_disagreement",
+        "label": "ET disagreement",
+        "n": 171,
+        "failures": 49,
+        "auroc": 0.5414854466376715,
+        "ci95": [
+          0.40528717242353607,
+          0.6762370838213713
+        ]
+      },
+      {
+        "target": "ET_positive",
+        "signal": "low_predicted_et_volume",
+        "label": "Low ET volume",
+        "n": 171,
+        "failures": 49,
+        "auroc": 0.9071595851455336,
+        "ci95": [
+          0.8336821850318227,
+          0.9657430010439316
+        ]
+      },
+      {
+        "target": "ET_all",
+        "signal": "mean_entropy",
+        "label": "Entropy",
+        "n": 257,
+        "failures": 60,
+        "auroc": 0.48206429780033844,
+        "ci95": [
+          0.3990348399246704,
+          0.5684587055221744
+        ]
+      },
+      {
+        "target": "ET_all",
+        "signal": "et_disagreement",
+        "label": "ET disagreement",
+        "n": 257,
+        "failures": 60,
+        "auroc": 0.6515651438240271,
+        "ci95": [
+          0.5526984266778142,
+          0.7411787035009098
+        ]
+      },
+      {
+        "target": "ET_all",
+        "signal": "low_predicted_et_volume",
+        "label": "Low ET volume",
+        "n": 257,
+        "failures": 60,
+        "auroc": 0.6521573604060914,
+        "ci95": [
+          0.579182078388886,
+          0.7206714519914951
+        ]
+      }
+    ],
+    "intervals": "Original 95% source-stratified case-bootstrap intervals; not recalculated."
+  },
+  "C": {
+    "n": 136,
+    "matrix": [
+      [
+        14,
+        4
+      ],
+      [
+        2,
+        116
+      ]
+    ],
+    "rows": [
+      "historical_all_empty",
+      "historical_not_all_empty"
+    ],
+    "columns": [
+      "development_all_empty",
+      "development_not_all_empty"
+    ],
+    "persistent_high_wt_both": 9
+  },
+  "D": {
+    "n": 171,
+    "matrix": [
+      [
+        15,
+        6
+      ],
+      [
+        2,
+        148
+      ]
+    ],
+    "rows": [
+      "b0_all_empty",
+      "b0_not_all_empty"
+    ],
+    "columns": [
+      "adult_all_empty",
+      "adult_not_all_empty"
+    ]
+  }
+}

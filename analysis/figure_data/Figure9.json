@@ -1,0 +1,1608 @@
+{
+  "encoding": {
+    "0": "nonempty ET prediction",
+    "1": "empty ET prediction in a reference-positive examination"
+  },
+  "selection": "Reference ET-positive and all-three-seed empty ET in at least one of the two contrasted conditions.",
+  "ordering": "Held-out fold, then full case ID; not ordered by Dice or outcome.",
+  "panels": {
+    "A": {
+      "n_displayed": 23,
+      "n_reference_positive_population": 171,
+      "n_no_all_seed_empty_event_in_either_condition": 148,
+      "missing_seed_states": 0,
+      "column_conditions": [
+        "b0",
+        "b0",
+        "b0",
+        "adult_init",
+        "adult_init",
+        "adult_init"
+      ],
+      "column_seeds": [
+        "2026",
+        "2027",
+        "2028",
+        "2026",
+        "2027",
+        "2028"
+      ],
+      "high_wt_rule": "Historical B0 probability-ensemble WT Dice \u22650.90",
+      "cases": [
+        {
+          "case_id": "BraTS-PED-00001-000",
+          "short_id": "CBTN 00001",
+          "fold": 0,
+          "source": "CBTN",
+          "reference_et_volume_mm3": 6204.0,
+          "displayed_empty_state": [
+            1,
+            1,
+            1,
+            0,
+            1,
+            1
+          ],
+          "seed_et_presence": {
+            "b0": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            },
+            "adult_init": {
+              "2026": true,
+              "2027": false,
+              "2028": false
+            }
+          },
+          "all_three_seed_et_empty": {
+            "b0": true,
+            "adult_init": false
+          },
+          "ensemble_wt_dice": {
+            "historical": 0.8436781881968588,
+            "development_plan": 0.8538316911242696
+          },
+          "high_wt_annotation": false
+        },
+        {
+          "case_id": "BraTS-PED-00014-000",
+          "short_id": "CBTN 00014",
+          "fold": 0,
+          "source": "CBTN",
+          "reference_et_volume_mm3": 2570.0,
+          "displayed_empty_state": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "seed_et_presence": {
+            "b0": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            },
+            "adult_init": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            }
+          },
+          "all_three_seed_et_empty": {
+            "b0": true,
+            "adult_init": true
+          },
+          "ensemble_wt_dice": {
+            "historical": 0.8662370383500246,
+            "development_plan": 0.8863110761206515
+          },
+          "high_wt_annotation": false
+        },
+        {
+          "case_id": "BraTS-PED-00024-000",
+          "short_id": "CBTN 00024",
+          "fold": 0,
+          "source": "CBTN",
+          "reference_et_volume_mm3": 1461.0,
+          "displayed_empty_state": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "seed_et_presence": {
+            "b0": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            },
+            "adult_init": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            }
+          },
+          "all_three_seed_et_empty": {
+            "b0": true,
+            "adult_init": true
+          },
+          "ensemble_wt_dice": {
+            "historical": 0.605904006795979,
+            "development_plan": 0.5832862390505793
+          },
+          "high_wt_annotation": false
+        },
+        {
+          "case_id": "BraTS-PED-00041-000",
+          "short_id": "CBTN 00041",
+          "fold": 0,
+          "source": "CBTN",
+          "reference_et_volume_mm3": 278.0,
+          "displayed_empty_state": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "seed_et_presence": {
+            "b0": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            },
+            "adult_init": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            }
+          },
+          "all_three_seed_et_empty": {
+            "b0": true,
+            "adult_init": true
+          },
+          "ensemble_wt_dice": {
+            "historical": 0.8399644004179081,
+            "development_plan": 0.8476557932889045
+          },
+          "high_wt_annotation": false
+        },
+        {
+          "case_id": "BraTS-PED-00042-000",
+          "short_id": "CBTN 00042",
+          "fold": 0,
+          "source": "CBTN",
+          "reference_et_volume_mm3": 19.0,
+          "displayed_empty_state": [
+            1,
+            1,
+            1,
+            0,
+            1,
+            1
+          ],
+          "seed_et_presence": {
+            "b0": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            },
+            "adult_init": {
+              "2026": true,
+              "2027": false,
+              "2028": false
+            }
+          },
+          "all_three_seed_et_empty": {
+            "b0": true,
+            "adult_init": false
+          },
+          "ensemble_wt_dice": {
+            "historical": 0.9281991561825853,
+            "development_plan": 0.9219246482069905
+          },
+          "high_wt_annotation": true
+        },
+        {
+          "case_id": "BraTS-PED-00043-000",
+          "short_id": "CBTN 00043",
+          "fold": 0,
+          "source": "CBTN",
+          "reference_et_volume_mm3": 1.0,
+          "displayed_empty_state": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            0
+          ],
+          "seed_et_presence": {
+            "b0": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            },
+            "adult_init": {
+              "2026": false,
+              "2027": false,
+              "2028": true
+            }
+          },
+          "all_three_seed_et_empty": {
+            "b0": true,
+            "adult_init": false
+          },
+          "ensemble_wt_dice": {
+            "historical": 0.8748652176380455,
+            "development_plan": 0.8722012026434686
+          },
+          "high_wt_annotation": false
+        },
+        {
+          "case_id": "BraTS-PED-00075-000",
+          "short_id": "CBTN 00075",
+          "fold": 0,
+          "source": "CBTN",
+          "reference_et_volume_mm3": 405.0,
+          "displayed_empty_state": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "seed_et_presence": {
+            "b0": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            },
+            "adult_init": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            }
+          },
+          "all_three_seed_et_empty": {
+            "b0": true,
+            "adult_init": true
+          },
+          "ensemble_wt_dice": {
+            "historical": 0.9142321286878742,
+            "development_plan": 0.9094176851186196
+          },
+          "high_wt_annotation": true
+        },
+        {
+          "case_id": "BraTS-PED-00076-000",
+          "short_id": "CBTN 00076",
+          "fold": 0,
+          "source": "CBTN",
+          "reference_et_volume_mm3": 815.0,
+          "displayed_empty_state": [
+            1,
+            1,
+            1,
+            0,
+            1,
+            1
+          ],
+          "seed_et_presence": {
+            "b0": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            },
+            "adult_init": {
+              "2026": true,
+              "2027": false,
+              "2028": false
+            }
+          },
+          "all_three_seed_et_empty": {
+            "b0": true,
+            "adult_init": false
+          },
+          "ensemble_wt_dice": {
+            "historical": 0.9487645737512034,
+            "development_plan": 0.9492974716753795
+          },
+          "high_wt_annotation": true
+        },
+        {
+          "case_id": "BraTS-PED-00084-000",
+          "short_id": "CBTN 00084",
+          "fold": 0,
+          "source": "CBTN",
+          "reference_et_volume_mm3": 345.0,
+          "displayed_empty_state": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "seed_et_presence": {
+            "b0": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            },
+            "adult_init": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            }
+          },
+          "all_three_seed_et_empty": {
+            "b0": true,
+            "adult_init": true
+          },
+          "ensemble_wt_dice": {
+            "historical": 0.9568481798757963,
+            "development_plan": 0.9575624155701206
+          },
+          "high_wt_annotation": true
+        },
+        {
+          "case_id": "BraTS-PED-00107-000",
+          "short_id": "CBTN 00107",
+          "fold": 0,
+          "source": "CBTN",
+          "reference_et_volume_mm3": 2371.0,
+          "displayed_empty_state": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "seed_et_presence": {
+            "b0": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            },
+            "adult_init": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            }
+          },
+          "all_three_seed_et_empty": {
+            "b0": true,
+            "adult_init": true
+          },
+          "ensemble_wt_dice": {
+            "historical": 0.8993704837151933,
+            "development_plan": 0.8976663167487627
+          },
+          "high_wt_annotation": false
+        },
+        {
+          "case_id": "BraTS-PED-00110-000",
+          "short_id": "CBTN 00110",
+          "fold": 0,
+          "source": "CBTN",
+          "reference_et_volume_mm3": 541.0,
+          "displayed_empty_state": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "seed_et_presence": {
+            "b0": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            },
+            "adult_init": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            }
+          },
+          "all_three_seed_et_empty": {
+            "b0": true,
+            "adult_init": true
+          },
+          "ensemble_wt_dice": {
+            "historical": 0.9236462351764538,
+            "development_plan": 0.9235222816399287
+          },
+          "high_wt_annotation": true
+        },
+        {
+          "case_id": "BraTS-PED-00153-000",
+          "short_id": "DFCI 00153",
+          "fold": 1,
+          "source": "DFCI-BCH-BWH-PEDs-HGG",
+          "reference_et_volume_mm3": 310.0,
+          "displayed_empty_state": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "seed_et_presence": {
+            "b0": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            },
+            "adult_init": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            }
+          },
+          "all_three_seed_et_empty": {
+            "b0": true,
+            "adult_init": true
+          },
+          "ensemble_wt_dice": {
+            "historical": 0.518139422866401,
+            "development_plan": 0.518139422866401
+          },
+          "high_wt_annotation": false
+        },
+        {
+          "case_id": "BraTS-PED-00162-000",
+          "short_id": "DFCI 00162",
+          "fold": 1,
+          "source": "DFCI-BCH-BWH-PEDs-HGG",
+          "reference_et_volume_mm3": 763.0,
+          "displayed_empty_state": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "seed_et_presence": {
+            "b0": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            },
+            "adult_init": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            }
+          },
+          "all_three_seed_et_empty": {
+            "b0": true,
+            "adult_init": true
+          },
+          "ensemble_wt_dice": {
+            "historical": 0.0,
+            "development_plan": 0.0
+          },
+          "high_wt_annotation": false
+        },
+        {
+          "case_id": "BraTS-PED-00164-000",
+          "short_id": "DFCI 00164",
+          "fold": 1,
+          "source": "DFCI-BCH-BWH-PEDs-HGG",
+          "reference_et_volume_mm3": 41.0,
+          "displayed_empty_state": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "seed_et_presence": {
+            "b0": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            },
+            "adult_init": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            }
+          },
+          "all_three_seed_et_empty": {
+            "b0": true,
+            "adult_init": true
+          },
+          "ensemble_wt_dice": {
+            "historical": 0.2277432712215321,
+            "development_plan": 0.2277432712215321
+          },
+          "high_wt_annotation": false
+        },
+        {
+          "case_id": "BraTS-PED-00184-000",
+          "short_id": "DFCI 00184",
+          "fold": 1,
+          "source": "DFCI-BCH-BWH-PEDs-HGG",
+          "reference_et_volume_mm3": 60.0,
+          "displayed_empty_state": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            1
+          ],
+          "seed_et_presence": {
+            "b0": {
+              "2026": false,
+              "2027": true,
+              "2028": false
+            },
+            "adult_init": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            }
+          },
+          "all_three_seed_et_empty": {
+            "b0": false,
+            "adult_init": true
+          },
+          "ensemble_wt_dice": {
+            "historical": 0.9317169796371128,
+            "development_plan": 0.9317169796371128
+          },
+          "high_wt_annotation": true
+        },
+        {
+          "case_id": "BraTS-PED-00188-000",
+          "short_id": "DIPGr 00188",
+          "fold": 2,
+          "source": "DIPGr",
+          "reference_et_volume_mm3": 35910.0,
+          "displayed_empty_state": [
+            1,
+            1,
+            1,
+            1,
+            0,
+            0
+          ],
+          "seed_et_presence": {
+            "b0": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            },
+            "adult_init": {
+              "2026": false,
+              "2027": true,
+              "2028": true
+            }
+          },
+          "all_three_seed_et_empty": {
+            "b0": true,
+            "adult_init": false
+          },
+          "ensemble_wt_dice": {
+            "historical": 0.04556952744070095,
+            "development_plan": 0.005261663669915775
+          },
+          "high_wt_annotation": false
+        },
+        {
+          "case_id": "BraTS-PED-00199-000",
+          "short_id": "DIPGr 00199",
+          "fold": 2,
+          "source": "DIPGr",
+          "reference_et_volume_mm3": 1024.0,
+          "displayed_empty_state": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "seed_et_presence": {
+            "b0": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            },
+            "adult_init": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            }
+          },
+          "all_three_seed_et_empty": {
+            "b0": true,
+            "adult_init": true
+          },
+          "ensemble_wt_dice": {
+            "historical": 0.9494718356703828,
+            "development_plan": 0.9472192513368984
+          },
+          "high_wt_annotation": true
+        },
+        {
+          "case_id": "BraTS-PED-00214-000",
+          "short_id": "DIPGr 00214",
+          "fold": 2,
+          "source": "DIPGr",
+          "reference_et_volume_mm3": 150.0,
+          "displayed_empty_state": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "seed_et_presence": {
+            "b0": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            },
+            "adult_init": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            }
+          },
+          "all_three_seed_et_empty": {
+            "b0": true,
+            "adult_init": true
+          },
+          "ensemble_wt_dice": {
+            "historical": 0.9763663009917332,
+            "development_plan": 0.979332726030517
+          },
+          "high_wt_annotation": true
+        },
+        {
+          "case_id": "BraTS-PED-00227-000",
+          "short_id": "DIPGr 00227",
+          "fold": 2,
+          "source": "DIPGr",
+          "reference_et_volume_mm3": 609.0,
+          "displayed_empty_state": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "seed_et_presence": {
+            "b0": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            },
+            "adult_init": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            }
+          },
+          "all_three_seed_et_empty": {
+            "b0": true,
+            "adult_init": true
+          },
+          "ensemble_wt_dice": {
+            "historical": 0.938085848627332,
+            "development_plan": 0.9139953542392567
+          },
+          "high_wt_annotation": true
+        },
+        {
+          "case_id": "BraTS-PED-00236-000",
+          "short_id": "DIPGr 00236",
+          "fold": 2,
+          "source": "DIPGr",
+          "reference_et_volume_mm3": 15.0,
+          "displayed_empty_state": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "seed_et_presence": {
+            "b0": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            },
+            "adult_init": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            }
+          },
+          "all_three_seed_et_empty": {
+            "b0": true,
+            "adult_init": true
+          },
+          "ensemble_wt_dice": {
+            "historical": 0.9542589148918751,
+            "development_plan": 0.9620913803439399
+          },
+          "high_wt_annotation": true
+        },
+        {
+          "case_id": "BraTS-PED-00238-000",
+          "short_id": "DIPGr 00238",
+          "fold": 2,
+          "source": "DIPGr",
+          "reference_et_volume_mm3": 174.0,
+          "displayed_empty_state": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "seed_et_presence": {
+            "b0": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            },
+            "adult_init": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            }
+          },
+          "all_three_seed_et_empty": {
+            "b0": true,
+            "adult_init": true
+          },
+          "ensemble_wt_dice": {
+            "historical": 0.9761572712761488,
+            "development_plan": 0.9756401197806265
+          },
+          "high_wt_annotation": true
+        },
+        {
+          "case_id": "BraTS-PED-00264-000",
+          "short_id": "DIPGr 00264",
+          "fold": 2,
+          "source": "DIPGr",
+          "reference_et_volume_mm3": 73.0,
+          "displayed_empty_state": [
+            1,
+            1,
+            1,
+            1,
+            0,
+            1
+          ],
+          "seed_et_presence": {
+            "b0": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            },
+            "adult_init": {
+              "2026": false,
+              "2027": true,
+              "2028": false
+            }
+          },
+          "all_three_seed_et_empty": {
+            "b0": true,
+            "adult_init": false
+          },
+          "ensemble_wt_dice": {
+            "historical": 0.9760877627906068,
+            "development_plan": 0.9746415475058691
+          },
+          "high_wt_annotation": true
+        },
+        {
+          "case_id": "BraTS-PED-00265-000",
+          "short_id": "DIPGr 00265",
+          "fold": 2,
+          "source": "DIPGr",
+          "reference_et_volume_mm3": 360.0,
+          "displayed_empty_state": [
+            1,
+            1,
+            0,
+            1,
+            1,
+            1
+          ],
+          "seed_et_presence": {
+            "b0": {
+              "2026": false,
+              "2027": false,
+              "2028": true
+            },
+            "adult_init": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            }
+          },
+          "all_three_seed_et_empty": {
+            "b0": false,
+            "adult_init": true
+          },
+          "ensemble_wt_dice": {
+            "historical": 0.9297311117739805,
+            "development_plan": 0.9331246563174147
+          },
+          "high_wt_annotation": true
+        }
+      ]
+    },
+    "B": {
+      "n_displayed": 20,
+      "n_reference_positive_population": 136,
+      "n_no_all_seed_empty_event_in_either_condition": 116,
+      "missing_seed_states": 0,
+      "column_conditions": [
+        "b0",
+        "b0",
+        "b0",
+        "development_plan",
+        "development_plan",
+        "development_plan"
+      ],
+      "column_seeds": [
+        "2026",
+        "2027",
+        "2028",
+        "2026",
+        "2027",
+        "2028"
+      ],
+      "high_wt_rule": "Historical and development-only B0 ensemble WT Dice both \u22650.90",
+      "cases": [
+        {
+          "case_id": "BraTS-PED-00001-000",
+          "short_id": "CBTN 00001",
+          "fold": 0,
+          "source": "CBTN",
+          "reference_et_volume_mm3": 6204.0,
+          "displayed_empty_state": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "seed_et_presence": {
+            "b0": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            },
+            "development_plan": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            }
+          },
+          "all_three_seed_et_empty": {
+            "b0": true,
+            "development_plan": true
+          },
+          "ensemble_wt_dice": {
+            "historical": 0.8436781881968588,
+            "development_plan": 0.8538316911242696
+          },
+          "high_wt_annotation": false
+        },
+        {
+          "case_id": "BraTS-PED-00014-000",
+          "short_id": "CBTN 00014",
+          "fold": 0,
+          "source": "CBTN",
+          "reference_et_volume_mm3": 2570.0,
+          "displayed_empty_state": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "seed_et_presence": {
+            "b0": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            },
+            "development_plan": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            }
+          },
+          "all_three_seed_et_empty": {
+            "b0": true,
+            "development_plan": true
+          },
+          "ensemble_wt_dice": {
+            "historical": 0.8662370383500246,
+            "development_plan": 0.8863110761206515
+          },
+          "high_wt_annotation": false
+        },
+        {
+          "case_id": "BraTS-PED-00024-000",
+          "short_id": "CBTN 00024",
+          "fold": 0,
+          "source": "CBTN",
+          "reference_et_volume_mm3": 1461.0,
+          "displayed_empty_state": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "seed_et_presence": {
+            "b0": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            },
+            "development_plan": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            }
+          },
+          "all_three_seed_et_empty": {
+            "b0": true,
+            "development_plan": true
+          },
+          "ensemble_wt_dice": {
+            "historical": 0.605904006795979,
+            "development_plan": 0.5832862390505793
+          },
+          "high_wt_annotation": false
+        },
+        {
+          "case_id": "BraTS-PED-00041-000",
+          "short_id": "CBTN 00041",
+          "fold": 0,
+          "source": "CBTN",
+          "reference_et_volume_mm3": 278.0,
+          "displayed_empty_state": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "seed_et_presence": {
+            "b0": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            },
+            "development_plan": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            }
+          },
+          "all_three_seed_et_empty": {
+            "b0": true,
+            "development_plan": true
+          },
+          "ensemble_wt_dice": {
+            "historical": 0.8399644004179081,
+            "development_plan": 0.8476557932889045
+          },
+          "high_wt_annotation": false
+        },
+        {
+          "case_id": "BraTS-PED-00042-000",
+          "short_id": "CBTN 00042",
+          "fold": 0,
+          "source": "CBTN",
+          "reference_et_volume_mm3": 19.0,
+          "displayed_empty_state": [
+            1,
+            1,
+            1,
+            1,
+            0,
+            1
+          ],
+          "seed_et_presence": {
+            "b0": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            },
+            "development_plan": {
+              "2026": false,
+              "2027": true,
+              "2028": false
+            }
+          },
+          "all_three_seed_et_empty": {
+            "b0": true,
+            "development_plan": false
+          },
+          "ensemble_wt_dice": {
+            "historical": 0.9281991561825853,
+            "development_plan": 0.9219246482069905
+          },
+          "high_wt_annotation": true
+        },
+        {
+          "case_id": "BraTS-PED-00043-000",
+          "short_id": "CBTN 00043",
+          "fold": 0,
+          "source": "CBTN",
+          "reference_et_volume_mm3": 1.0,
+          "displayed_empty_state": [
+            1,
+            1,
+            1,
+            1,
+            0,
+            1
+          ],
+          "seed_et_presence": {
+            "b0": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            },
+            "development_plan": {
+              "2026": false,
+              "2027": true,
+              "2028": false
+            }
+          },
+          "all_three_seed_et_empty": {
+            "b0": true,
+            "development_plan": false
+          },
+          "ensemble_wt_dice": {
+            "historical": 0.8748652176380455,
+            "development_plan": 0.8722012026434686
+          },
+          "high_wt_annotation": false
+        },
+        {
+          "case_id": "BraTS-PED-00075-000",
+          "short_id": "CBTN 00075",
+          "fold": 0,
+          "source": "CBTN",
+          "reference_et_volume_mm3": 405.0,
+          "displayed_empty_state": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "seed_et_presence": {
+            "b0": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            },
+            "development_plan": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            }
+          },
+          "all_three_seed_et_empty": {
+            "b0": true,
+            "development_plan": true
+          },
+          "ensemble_wt_dice": {
+            "historical": 0.9142321286878742,
+            "development_plan": 0.9094176851186196
+          },
+          "high_wt_annotation": true
+        },
+        {
+          "case_id": "BraTS-PED-00076-000",
+          "short_id": "CBTN 00076",
+          "fold": 0,
+          "source": "CBTN",
+          "reference_et_volume_mm3": 815.0,
+          "displayed_empty_state": [
+            1,
+            1,
+            1,
+            1,
+            0,
+            1
+          ],
+          "seed_et_presence": {
+            "b0": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            },
+            "development_plan": {
+              "2026": false,
+              "2027": true,
+              "2028": false
+            }
+          },
+          "all_three_seed_et_empty": {
+            "b0": true,
+            "development_plan": false
+          },
+          "ensemble_wt_dice": {
+            "historical": 0.9487645737512034,
+            "development_plan": 0.9492974716753795
+          },
+          "high_wt_annotation": true
+        },
+        {
+          "case_id": "BraTS-PED-00084-000",
+          "short_id": "CBTN 00084",
+          "fold": 0,
+          "source": "CBTN",
+          "reference_et_volume_mm3": 345.0,
+          "displayed_empty_state": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "seed_et_presence": {
+            "b0": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            },
+            "development_plan": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            }
+          },
+          "all_three_seed_et_empty": {
+            "b0": true,
+            "development_plan": true
+          },
+          "ensemble_wt_dice": {
+            "historical": 0.9568481798757963,
+            "development_plan": 0.9575624155701206
+          },
+          "high_wt_annotation": true
+        },
+        {
+          "case_id": "BraTS-PED-00107-000",
+          "short_id": "CBTN 00107",
+          "fold": 0,
+          "source": "CBTN",
+          "reference_et_volume_mm3": 2371.0,
+          "displayed_empty_state": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "seed_et_presence": {
+            "b0": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            },
+            "development_plan": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            }
+          },
+          "all_three_seed_et_empty": {
+            "b0": true,
+            "development_plan": true
+          },
+          "ensemble_wt_dice": {
+            "historical": 0.8993704837151933,
+            "development_plan": 0.8976663167487627
+          },
+          "high_wt_annotation": false
+        },
+        {
+          "case_id": "BraTS-PED-00110-000",
+          "short_id": "CBTN 00110",
+          "fold": 0,
+          "source": "CBTN",
+          "reference_et_volume_mm3": 541.0,
+          "displayed_empty_state": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "seed_et_presence": {
+            "b0": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            },
+            "development_plan": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            }
+          },
+          "all_three_seed_et_empty": {
+            "b0": true,
+            "development_plan": true
+          },
+          "ensemble_wt_dice": {
+            "historical": 0.9236462351764538,
+            "development_plan": 0.9235222816399287
+          },
+          "high_wt_annotation": true
+        },
+        {
+          "case_id": "BraTS-PED-00188-000",
+          "short_id": "DIPGr 00188",
+          "fold": 2,
+          "source": "DIPGr",
+          "reference_et_volume_mm3": 35910.0,
+          "displayed_empty_state": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            0
+          ],
+          "seed_et_presence": {
+            "b0": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            },
+            "development_plan": {
+              "2026": false,
+              "2027": false,
+              "2028": true
+            }
+          },
+          "all_three_seed_et_empty": {
+            "b0": true,
+            "development_plan": false
+          },
+          "ensemble_wt_dice": {
+            "historical": 0.04556952744070095,
+            "development_plan": 0.005261663669915775
+          },
+          "high_wt_annotation": false
+        },
+        {
+          "case_id": "BraTS-PED-00199-000",
+          "short_id": "DIPGr 00199",
+          "fold": 2,
+          "source": "DIPGr",
+          "reference_et_volume_mm3": 1024.0,
+          "displayed_empty_state": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "seed_et_presence": {
+            "b0": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            },
+            "development_plan": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            }
+          },
+          "all_three_seed_et_empty": {
+            "b0": true,
+            "development_plan": true
+          },
+          "ensemble_wt_dice": {
+            "historical": 0.9494718356703828,
+            "development_plan": 0.9472192513368984
+          },
+          "high_wt_annotation": true
+        },
+        {
+          "case_id": "BraTS-PED-00214-000",
+          "short_id": "DIPGr 00214",
+          "fold": 2,
+          "source": "DIPGr",
+          "reference_et_volume_mm3": 150.0,
+          "displayed_empty_state": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "seed_et_presence": {
+            "b0": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            },
+            "development_plan": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            }
+          },
+          "all_three_seed_et_empty": {
+            "b0": true,
+            "development_plan": true
+          },
+          "ensemble_wt_dice": {
+            "historical": 0.9763663009917332,
+            "development_plan": 0.979332726030517
+          },
+          "high_wt_annotation": true
+        },
+        {
+          "case_id": "BraTS-PED-00223-000",
+          "short_id": "DIPGr 00223",
+          "fold": 2,
+          "source": "DIPGr",
+          "reference_et_volume_mm3": 160.0,
+          "displayed_empty_state": [
+            1,
+            0,
+            0,
+            1,
+            1,
+            1
+          ],
+          "seed_et_presence": {
+            "b0": {
+              "2026": false,
+              "2027": true,
+              "2028": true
+            },
+            "development_plan": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            }
+          },
+          "all_three_seed_et_empty": {
+            "b0": false,
+            "development_plan": true
+          },
+          "ensemble_wt_dice": {
+            "historical": 0.9204566722814898,
+            "development_plan": 0.9279653026588723
+          },
+          "high_wt_annotation": true
+        },
+        {
+          "case_id": "BraTS-PED-00227-000",
+          "short_id": "DIPGr 00227",
+          "fold": 2,
+          "source": "DIPGr",
+          "reference_et_volume_mm3": 609.0,
+          "displayed_empty_state": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "seed_et_presence": {
+            "b0": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            },
+            "development_plan": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            }
+          },
+          "all_three_seed_et_empty": {
+            "b0": true,
+            "development_plan": true
+          },
+          "ensemble_wt_dice": {
+            "historical": 0.938085848627332,
+            "development_plan": 0.9139953542392567
+          },
+          "high_wt_annotation": true
+        },
+        {
+          "case_id": "BraTS-PED-00236-000",
+          "short_id": "DIPGr 00236",
+          "fold": 2,
+          "source": "DIPGr",
+          "reference_et_volume_mm3": 15.0,
+          "displayed_empty_state": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "seed_et_presence": {
+            "b0": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            },
+            "development_plan": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            }
+          },
+          "all_three_seed_et_empty": {
+            "b0": true,
+            "development_plan": true
+          },
+          "ensemble_wt_dice": {
+            "historical": 0.9542589148918751,
+            "development_plan": 0.9620913803439399
+          },
+          "high_wt_annotation": true
+        },
+        {
+          "case_id": "BraTS-PED-00238-000",
+          "short_id": "DIPGr 00238",
+          "fold": 2,
+          "source": "DIPGr",
+          "reference_et_volume_mm3": 174.0,
+          "displayed_empty_state": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "seed_et_presence": {
+            "b0": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            },
+            "development_plan": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            }
+          },
+          "all_three_seed_et_empty": {
+            "b0": true,
+            "development_plan": true
+          },
+          "ensemble_wt_dice": {
+            "historical": 0.9761572712761488,
+            "development_plan": 0.9756401197806265
+          },
+          "high_wt_annotation": true
+        },
+        {
+          "case_id": "BraTS-PED-00264-000",
+          "short_id": "DIPGr 00264",
+          "fold": 2,
+          "source": "DIPGr",
+          "reference_et_volume_mm3": 73.0,
+          "displayed_empty_state": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "seed_et_presence": {
+            "b0": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            },
+            "development_plan": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            }
+          },
+          "all_three_seed_et_empty": {
+            "b0": true,
+            "development_plan": true
+          },
+          "ensemble_wt_dice": {
+            "historical": 0.9760877627906068,
+            "development_plan": 0.9746415475058691
+          },
+          "high_wt_annotation": true
+        },
+        {
+          "case_id": "BraTS-PED-00265-000",
+          "short_id": "DIPGr 00265",
+          "fold": 2,
+          "source": "DIPGr",
+          "reference_et_volume_mm3": 360.0,
+          "displayed_empty_state": [
+            1,
+            1,
+            0,
+            1,
+            1,
+            1
+          ],
+          "seed_et_presence": {
+            "b0": {
+              "2026": false,
+              "2027": false,
+              "2028": true
+            },
+            "development_plan": {
+              "2026": false,
+              "2027": false,
+              "2028": false
+            }
+          },
+          "all_three_seed_et_empty": {
+            "b0": false,
+            "development_plan": true
+          },
+          "ensemble_wt_dice": {
+            "historical": 0.9297311117739805,
+            "development_plan": 0.9331246563174147
+          },
+          "high_wt_annotation": true
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,9 @@
+# Install the PyTorch CUDA 12.8 wheel first, as detailed in README.md.
+nnunetv2==2.8.1
+torch==2.11.0+cu128
+numpy==2.2.6
+scipy==1.15.3
+nibabel==5.4.2
+# Versions not specified by the audited manuscript.
+pandas
+openpyxl

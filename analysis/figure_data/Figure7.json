@@ -1,0 +1,52 @@
+{
+  "panel_A": {
+    "contrast": "development-only minus historical",
+    "rows": [
+      {
+        "label": "WT",
+        "region": "WT",
+        "scope": "pooled",
+        "subset": "all",
+        "n": 257,
+        "historical_mean": 0.863522614399822,
+        "development_only_mean": 0.8619124843178082,
+        "difference_new_minus_historical": {
+          "value": -0.0016101300820139481,
+          "ci_low": -0.009675414679241616,
+          "ci_high": 0.0053499999062813835,
+          "valid_bootstrap": 2000
+        }
+      },
+      {
+        "label": "TC",
+        "region": "TC",
+        "scope": "pooled",
+        "subset": "all",
+        "n": 257,
+        "historical_mean": 0.8332493304625936,
+        "development_only_mean": 0.82974241894592,
+        "difference_new_minus_historical": {
+          "value": -0.0035069115166735305,
+          "ci_low": -0.011654746409161988,
+          "ci_high": 0.0034947034756102405,
+          "valid_bootstrap": 2000
+        }
+      },
+      {
+        "label": "ET+",
+        "region": "ET",
+        "scope": "pooled",
+        "subset": "positive",
+        "n": 171,
+        "historical_mean": 0.5987779520962927,
+        "development_only_mean": 0.5875979773036093,
+        "difference_new_minus_historical": {
+          "value": -0.011179974792683385,
+          "ci_low": -0.026105776795145117,
+          "ci_high": 0.002701912986305826,
+          "valid_bootstrap": 2000
+        }
+      }
+    ]
+  }
+}

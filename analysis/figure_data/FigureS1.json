@@ -1,0 +1,68 @@
+{
+  "panels_B_C": {
+    "scope": "pooled",
+    "metrics": [
+      "positive_dice",
+      "negative_specificity"
+    ],
+    "labels": {
+      "b0_ensemble": "B0",
+      "p1_ungated": "P1",
+      "p1_gated": "P1+gate"
+    },
+    "rows": [
+      {
+        "scope": "pooled",
+        "method": "b0_ensemble",
+        "n": 257,
+        "positive_dice": {
+          "n": 171,
+          "value": 0.5987779520962927,
+          "ci_low": 0.5481471121903673,
+          "ci_high": 0.6482225363580972
+        },
+        "negative_specificity": {
+          "n": 86,
+          "value": 0.872093023255814,
+          "ci_low": 0.8023255813953488,
+          "ci_high": 0.9418604651162791
+        }
+      },
+      {
+        "scope": "pooled",
+        "method": "p1_ungated",
+        "n": 257,
+        "positive_dice": {
+          "n": 171,
+          "value": 0.4557336001806473,
+          "ci_low": 0.4101675297521722,
+          "ci_high": 0.4993534196895633
+        },
+        "negative_specificity": {
+          "n": 86,
+          "value": 0.4418604651162791,
+          "ci_low": 0.3488372093023256,
+          "ci_high": 0.5348837209302325
+        }
+      },
+      {
+        "scope": "pooled",
+        "method": "p1_gated",
+        "n": 257,
+        "positive_dice": {
+          "n": 171,
+          "value": 0.29504976611643846,
+          "ci_low": 0.25349015638015227,
+          "ci_high": 0.3376969223740645
+        },
+        "negative_specificity": {
+          "n": 86,
+          "value": 0.7209302325581395,
+          "ci_low": 0.627906976744186,
+          "ci_high": 0.813953488372093
+        }
+      }
+    ],
+    "comparison": "combined refinement recipe; capacity, objective, training budget, and ROI localization differ"
+  }
+}

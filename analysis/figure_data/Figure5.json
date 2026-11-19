@@ -1,0 +1,105 @@
+{
+  "panels": [
+    {
+      "panel": "A",
+      "metric": "complete_empty_predictions",
+      "n_cases": 171,
+      "values": [
+        {
+          "seed": 2026,
+          "b0": 28.0,
+          "adult_init": 23.0,
+          "unit": "case count"
+        },
+        {
+          "seed": 2027,
+          "b0": 25.0,
+          "adult_init": 25.0,
+          "unit": "case count"
+        },
+        {
+          "seed": 2028,
+          "b0": 27.0,
+          "adult_init": 28.0,
+          "unit": "case count"
+        }
+      ]
+    },
+    {
+      "panel": "B",
+      "metric": "false_positive_cases",
+      "n_cases": 86,
+      "values": [
+        {
+          "seed": 2026,
+          "b0": 12.0,
+          "adult_init": 11.0,
+          "unit": "case count"
+        },
+        {
+          "seed": 2027,
+          "b0": 19.0,
+          "adult_init": 12.0,
+          "unit": "case count"
+        },
+        {
+          "seed": 2028,
+          "b0": 13.0,
+          "adult_init": 10.0,
+          "unit": "case count"
+        }
+      ]
+    },
+    {
+      "panel": "C",
+      "metric": "false_positive_volume_mean_per_negative_case_mm3",
+      "n_cases": 86,
+      "values": [
+        {
+          "seed": 2026,
+          "b0": 146.37209302325581,
+          "adult_init": 87.27906976744185,
+          "unit": "mm3"
+        },
+        {
+          "seed": 2027,
+          "b0": 95.61627906976744,
+          "adult_init": 88.6046511627907,
+          "unit": "mm3"
+        },
+        {
+          "seed": 2028,
+          "b0": 76.16279069767442,
+          "adult_init": 100.22093023255815,
+          "unit": "mm3"
+        }
+      ]
+    },
+    {
+      "panel": "D",
+      "metric": "ppv",
+      "n_cases": 257,
+      "values": [
+        {
+          "seed": 2026,
+          "b0": 0.6895674300254453,
+          "adult_init": 0.6577669902912622,
+          "unit": "proportion"
+        },
+        {
+          "seed": 2027,
+          "b0": 0.6236323851203501,
+          "adult_init": 0.5352380952380953,
+          "unit": "proportion"
+        },
+        {
+          "seed": 2028,
+          "b0": 0.564453125,
+          "adult_init": 0.597457627118644,
+          "unit": "proportion"
+        }
+      ]
+    }
+  ],
+  "uncertainty": "Observed point estimates only; no confidence intervals or significance annotations added."
+}

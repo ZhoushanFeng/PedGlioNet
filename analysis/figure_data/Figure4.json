@@ -1,0 +1,1647 @@
+{
+  "rows": [
+    "ET",
+    "NET",
+    "CC",
+    "ED",
+    "TC",
+    "WT"
+  ],
+  "sources": [
+    "CBTN",
+    "DFCI-BCH-BWH-PEDs-HGG",
+    "DIPGr"
+  ],
+  "seeds": [
+    2026,
+    2027,
+    2028
+  ],
+  "panels": [
+    "all",
+    "positive"
+  ],
+  "units": "percentage points: 100 * (AdultInit Dice - B0 Dice)",
+  "records": [
+    {
+      "subset": "all",
+      "region": "ET",
+      "source": "CBTN",
+      "seed": 2026,
+      "n_cases": 116,
+      "b0_dice": 0.6546218797092591,
+      "adult_init_dice": 0.6453700983881154,
+      "difference_dice": -0.009251781321143517,
+      "difference_percentage_points": -0.9251781321143517,
+      "paired_ci95_dice": [
+        -0.05660182817891485,
+        0.03258952655617651
+      ]
+    },
+    {
+      "subset": "all",
+      "region": "ET",
+      "source": "CBTN",
+      "seed": 2027,
+      "n_cases": 116,
+      "b0_dice": 0.6470512256826073,
+      "adult_init_dice": 0.6535535365425275,
+      "difference_dice": 0.0065023108599201246,
+      "difference_percentage_points": 0.6502310859920124,
+      "paired_ci95_dice": [
+        -0.016444744988915058,
+        0.025951373675645036
+      ]
+    },
+    {
+      "subset": "all",
+      "region": "ET",
+      "source": "CBTN",
+      "seed": 2028,
+      "n_cases": 116,
+      "b0_dice": 0.6598148625138871,
+      "adult_init_dice": 0.6551109770539317,
+      "difference_dice": -0.004703885459955535,
+      "difference_percentage_points": -0.4703885459955535,
+      "paired_ci95_dice": [
+        -0.0350260468471974,
+        0.022664092690734307
+      ]
+    },
+    {
+      "subset": "all",
+      "region": "ET",
+      "source": "DFCI-BCH-BWH-PEDs-HGG",
+      "seed": 2026,
+      "n_cases": 61,
+      "b0_dice": 0.6726316407035526,
+      "adult_init_dice": 0.7247208364080876,
+      "difference_dice": 0.052089195704535025,
+      "difference_percentage_points": 5.208919570453503,
+      "paired_ci95_dice": [
+        0.009854545519756229,
+        0.10634517527960001
+      ]
+    },
+    {
+      "subset": "all",
+      "region": "ET",
+      "source": "DFCI-BCH-BWH-PEDs-HGG",
+      "seed": 2027,
+      "n_cases": 61,
+      "b0_dice": 0.5341076630574937,
+      "adult_init_dice": 0.6650709722600054,
+      "difference_dice": 0.13096330920251173,
+      "difference_percentage_points": 13.096330920251173,
+      "paired_ci95_dice": [
+        0.029692596390857636,
+        0.24069244842240783
+      ]
+    },
+    {
+      "subset": "all",
+      "region": "ET",
+      "source": "DFCI-BCH-BWH-PEDs-HGG",
+      "seed": 2028,
+      "n_cases": 61,
+      "b0_dice": 0.6398429796730457,
+      "adult_init_dice": 0.6889031539122232,
+      "difference_dice": 0.04906017423917757,
+      "difference_percentage_points": 4.906017423917757,
+      "paired_ci95_dice": [
+        0.0004111395232315822,
+        0.1119095367387179
+      ]
+    },
+    {
+      "subset": "all",
+      "region": "ET",
+      "source": "DIPGr",
+      "seed": 2026,
+      "n_cases": 80,
+      "b0_dice": 0.7362574064706381,
+      "adult_init_dice": 0.7699486211853233,
+      "difference_dice": 0.03369121471468509,
+      "difference_percentage_points": 3.3691214714685094,
+      "paired_ci95_dice": [
+        0.0009659183656186527,
+        0.07658592742204128
+      ]
+    },
+    {
+      "subset": "all",
+      "region": "ET",
+      "source": "DIPGr",
+      "seed": 2027,
+      "n_cases": 80,
+      "b0_dice": 0.7242204437693485,
+      "adult_init_dice": 0.7487970500229814,
+      "difference_dice": 0.02457660625363289,
+      "difference_percentage_points": 2.457660625363289,
+      "paired_ci95_dice": [
+        -0.013318602449393218,
+        0.05621066263549435
+      ]
+    },
+    {
+      "subset": "all",
+      "region": "ET",
+      "source": "DIPGr",
+      "seed": 2028,
+      "n_cases": 80,
+      "b0_dice": 0.7439234868675039,
+      "adult_init_dice": 0.7778625791308121,
+      "difference_dice": 0.033939092263308275,
+      "difference_percentage_points": 3.3939092263308277,
+      "paired_ci95_dice": [
+        0.007777559668913345,
+        0.06959759335662927
+      ]
+    },
+    {
+      "subset": "all",
+      "region": "NET",
+      "source": "CBTN",
+      "seed": 2026,
+      "n_cases": 116,
+      "b0_dice": 0.7301277514639934,
+      "adult_init_dice": 0.7308369073565812,
+      "difference_dice": 0.0007091558925876016,
+      "difference_percentage_points": 0.07091558925876017,
+      "paired_ci95_dice": [
+        -0.013788000551928381,
+        0.014020430569076488
+      ]
+    },
+    {
+      "subset": "all",
+      "region": "NET",
+      "source": "CBTN",
+      "seed": 2027,
+      "n_cases": 116,
+      "b0_dice": 0.7237368307791464,
+      "adult_init_dice": 0.7225584162028741,
+      "difference_dice": -0.0011784145762721914,
+      "difference_percentage_points": -0.11784145762721915,
+      "paired_ci95_dice": [
+        -0.011375875825446002,
+        0.00907061740895543
+      ]
+    },
+    {
+      "subset": "all",
+      "region": "NET",
+      "source": "CBTN",
+      "seed": 2028,
+      "n_cases": 116,
+      "b0_dice": 0.7236258622765936,
+      "adult_init_dice": 0.7231725786348288,
+      "difference_dice": -0.0004532836417647311,
+      "difference_percentage_points": -0.04532836417647311,
+      "paired_ci95_dice": [
+        -0.0177546583798219,
+        0.019949934069996053
+      ]
+    },
+    {
+      "subset": "all",
+      "region": "NET",
+      "source": "DFCI-BCH-BWH-PEDs-HGG",
+      "seed": 2026,
+      "n_cases": 61,
+      "b0_dice": 0.5993858359965343,
+      "adult_init_dice": 0.6223043330666883,
+      "difference_dice": 0.022918497070154063,
+      "difference_percentage_points": 2.2918497070154062,
+      "paired_ci95_dice": [
+        -0.005823028979121757,
+        0.053112851388437216
+      ]
+    },
+    {
+      "subset": "all",
+      "region": "NET",
+      "source": "DFCI-BCH-BWH-PEDs-HGG",
+      "seed": 2027,
+      "n_cases": 61,
+      "b0_dice": 0.6138008233952544,
+      "adult_init_dice": 0.6207866004430534,
+      "difference_dice": 0.0069857770477990706,
+      "difference_percentage_points": 0.6985777047799071,
+      "paired_ci95_dice": [
+        -0.022822112526156093,
+        0.03375952800696889
+      ]
+    },
+    {
+      "subset": "all",
+      "region": "NET",
+      "source": "DFCI-BCH-BWH-PEDs-HGG",
+      "seed": 2028,
+      "n_cases": 61,
+      "b0_dice": 0.5950643001766983,
+      "adult_init_dice": 0.6147395697429137,
+      "difference_dice": 0.019675269566215084,
+      "difference_percentage_points": 1.9675269566215083,
+      "paired_ci95_dice": [
+        0.0012791860400265156,
+        0.04041847408310303
+      ]
+    },
+    {
+      "subset": "all",
+      "region": "NET",
+      "source": "DIPGr",
+      "seed": 2026,
+      "n_cases": 80,
+      "b0_dice": 0.9131379428846804,
+      "adult_init_dice": 0.9172295512950395,
+      "difference_dice": 0.004091608410359181,
+      "difference_percentage_points": 0.4091608410359181,
+      "paired_ci95_dice": [
+        0.0007258206032615378,
+        0.008441176510376847
+      ]
+    },
+    {
+      "subset": "all",
+      "region": "NET",
+      "source": "DIPGr",
+      "seed": 2027,
+      "n_cases": 80,
+      "b0_dice": 0.9149400836097747,
+      "adult_init_dice": 0.9203836681607285,
+      "difference_dice": 0.005443584550953739,
+      "difference_percentage_points": 0.5443584550953738,
+      "paired_ci95_dice": [
+        -0.0004539967657838938,
+        0.01253325943650504
+      ]
+    },
+    {
+      "subset": "all",
+      "region": "NET",
+      "source": "DIPGr",
+      "seed": 2028,
+      "n_cases": 80,
+      "b0_dice": 0.9149114081766065,
+      "adult_init_dice": 0.9220640789370662,
+      "difference_dice": 0.00715267076045963,
+      "difference_percentage_points": 0.715267076045963,
+      "paired_ci95_dice": [
+        -0.0005562352970451752,
+        0.01815137578084658
+      ]
+    },
+    {
+      "subset": "all",
+      "region": "CC",
+      "source": "CBTN",
+      "seed": 2026,
+      "n_cases": 116,
+      "b0_dice": 0.5161944163354877,
+      "adult_init_dice": 0.5109950047520764,
+      "difference_dice": -0.005199411583411407,
+      "difference_percentage_points": -0.5199411583411407,
+      "paired_ci95_dice": [
+        -0.048136978004114775,
+        0.032456208649236415
+      ]
+    },
+    {
+      "subset": "all",
+      "region": "CC",
+      "source": "CBTN",
+      "seed": 2027,
+      "n_cases": 116,
+      "b0_dice": 0.5190939700547818,
+      "adult_init_dice": 0.5169613251898204,
+      "difference_dice": -0.002132644864961306,
+      "difference_percentage_points": -0.2132644864961306,
+      "paired_ci95_dice": [
+        -0.03378352164711804,
+        0.03421263200297844
+      ]
+    },
+    {
+      "subset": "all",
+      "region": "CC",
+      "source": "CBTN",
+      "seed": 2028,
+      "n_cases": 116,
+      "b0_dice": 0.5362672009292007,
+      "adult_init_dice": 0.5202075391119375,
+      "difference_dice": -0.016059661817263118,
+      "difference_percentage_points": -1.6059661817263118,
+      "paired_ci95_dice": [
+        -0.051013991392776604,
+        0.01847538459162785
+      ]
+    },
+    {
+      "subset": "all",
+      "region": "CC",
+      "source": "DFCI-BCH-BWH-PEDs-HGG",
+      "seed": 2026,
+      "n_cases": 61,
+      "b0_dice": 0.6897147741419457,
+      "adult_init_dice": 0.6889192819246792,
+      "difference_dice": -0.0007954922172664859,
+      "difference_percentage_points": -0.07954922172664859,
+      "paired_ci95_dice": [
+        -0.0787691503372019,
+        0.07439367011264955
+      ]
+    },
+    {
+      "subset": "all",
+      "region": "CC",
+      "source": "DFCI-BCH-BWH-PEDs-HGG",
+      "seed": 2027,
+      "n_cases": 61,
+      "b0_dice": 0.6351769178669366,
+      "adult_init_dice": 0.6668306973645486,
+      "difference_dice": 0.03165377949761197,
+      "difference_percentage_points": 3.165377949761197,
+      "paired_ci95_dice": [
+        -0.04523037189490355,
+        0.10906571806970122
+      ]
+    },
+    {
+      "subset": "all",
+      "region": "CC",
+      "source": "DFCI-BCH-BWH-PEDs-HGG",
+      "seed": 2028,
+      "n_cases": 61,
+      "b0_dice": 0.6340195359965946,
+      "adult_init_dice": 0.7144487299069757,
+      "difference_dice": 0.08042919391038122,
+      "difference_percentage_points": 8.042919391038122,
+      "paired_ci95_dice": [
+        0.019305634811163045,
+        0.15332831246209783
+      ]
+    },
+    {
+      "subset": "all",
+      "region": "CC",
+      "source": "DIPGr",
+      "seed": 2026,
+      "n_cases": 80,
+      "b0_dice": 0.7476513627412052,
+      "adult_init_dice": 0.717480570845896,
+      "difference_dice": -0.030170791895309218,
+      "difference_percentage_points": -3.017079189530922,
+      "paired_ci95_dice": [
+        -0.07554943900393946,
+        0.008501949371190077
+      ]
+    },
+    {
+      "subset": "all",
+      "region": "CC",
+      "source": "DIPGr",
+      "seed": 2027,
+      "n_cases": 80,
+      "b0_dice": 0.7357214463501738,
+      "adult_init_dice": 0.745970530769261,
+      "difference_dice": 0.010249084419087232,
+      "difference_percentage_points": 1.0249084419087233,
+      "paired_ci95_dice": [
+        -0.026736279482111346,
+        0.04962881567748928
+      ]
+    },
+    {
+      "subset": "all",
+      "region": "CC",
+      "source": "DIPGr",
+      "seed": 2028,
+      "n_cases": 80,
+      "b0_dice": 0.7551810332674714,
+      "adult_init_dice": 0.7429157756669771,
+      "difference_dice": -0.01226525760049447,
+      "difference_percentage_points": -1.226525760049447,
+      "paired_ci95_dice": [
+        -0.06866236302172393,
+        0.038573387263877885
+      ]
+    },
+    {
+      "subset": "all",
+      "region": "ED",
+      "source": "CBTN",
+      "seed": 2026,
+      "n_cases": 116,
+      "b0_dice": 0.7590228189093983,
+      "adult_init_dice": 0.7387479682850164,
+      "difference_dice": -0.020274850624381925,
+      "difference_percentage_points": -2.0274850624381924,
+      "paired_ci95_dice": [
+        -0.06695707309879056,
+        0.021180369977019463
+      ]
+    },
+    {
+      "subset": "all",
+      "region": "ED",
+      "source": "CBTN",
+      "seed": 2027,
+      "n_cases": 116,
+      "b0_dice": 0.7852109342051159,
+      "adult_init_dice": 0.705738041944024,
+      "difference_dice": -0.07947289226109203,
+      "difference_percentage_points": -7.947289226109203,
+      "paired_ci95_dice": [
+        -0.13442819919951074,
+        -0.034636599121806916
+      ]
+    },
+    {
+      "subset": "all",
+      "region": "ED",
+      "source": "CBTN",
+      "seed": 2028,
+      "n_cases": 116,
+      "b0_dice": 0.7973987984117581,
+      "adult_init_dice": 0.7664463132850955,
+      "difference_dice": -0.030952485126662547,
+      "difference_percentage_points": -3.0952485126662546,
+      "paired_ci95_dice": [
+        -0.07009490784050965,
+        0.001650922471255891
+      ]
+    },
+    {
+      "subset": "all",
+      "region": "ED",
+      "source": "DFCI-BCH-BWH-PEDs-HGG",
+      "seed": 2026,
+      "n_cases": 61,
+      "b0_dice": 0.663255662996663,
+      "adult_init_dice": 0.7123386165729482,
+      "difference_dice": 0.04908295357628514,
+      "difference_percentage_points": 4.908295357628514,
+      "paired_ci95_dice": [
+        -0.013476748406731045,
+        0.11690749468101069
+      ]
+    },
+    {
+      "subset": "all",
+      "region": "ED",
+      "source": "DFCI-BCH-BWH-PEDs-HGG",
+      "seed": 2027,
+      "n_cases": 61,
+      "b0_dice": 0.5144073611921178,
+      "adult_init_dice": 0.6267788811865951,
+      "difference_dice": 0.11237151999447717,
+      "difference_percentage_points": 11.237151999447716,
+      "paired_ci95_dice": [
+        0.04495611422428456,
+        0.1917454314497395
+      ]
+    },
+    {
+      "subset": "all",
+      "region": "ED",
+      "source": "DFCI-BCH-BWH-PEDs-HGG",
+      "seed": 2028,
+      "n_cases": 61,
+      "b0_dice": 0.7342225890777407,
+      "adult_init_dice": 0.6895026758410666,
+      "difference_dice": -0.04471991323667401,
+      "difference_percentage_points": -4.4719913236674005,
+      "paired_ci95_dice": [
+        -0.12150187874955098,
+        0.02254436435161597
+      ]
+    },
+    {
+      "subset": "all",
+      "region": "ED",
+      "source": "DIPGr",
+      "seed": 2026,
+      "n_cases": 80,
+      "b0_dice": 0.9197965801886792,
+      "adult_init_dice": 0.9125,
+      "difference_dice": -0.007296580188679245,
+      "difference_percentage_points": -0.7296580188679246,
+      "paired_ci95_dice": [
+        -0.021889740566037735,
+        0.0
+      ]
+    },
+    {
+      "subset": "all",
+      "region": "ED",
+      "source": "DIPGr",
+      "seed": 2027,
+      "n_cases": 80,
+      "b0_dice": 0.9037683031869079,
+      "adult_init_dice": 0.8715437800028134,
+      "difference_dice": -0.03222452318409458,
+      "difference_percentage_points": -3.2224523184094576,
+      "paired_ci95_dice": [
+        -0.08025587951330582,
+        0.0051529788525735394
+      ]
+    },
+    {
+      "subset": "all",
+      "region": "ED",
+      "source": "DIPGr",
+      "seed": 2028,
+      "n_cases": 80,
+      "b0_dice": 0.9132352941176471,
+      "adult_init_dice": 0.9169561403508772,
+      "difference_dice": 0.003720846233230134,
+      "difference_percentage_points": 0.3720846233230134,
+      "paired_ci95_dice": [
+        0.0,
+        0.0111625386996904
+      ]
+    },
+    {
+      "subset": "all",
+      "region": "TC",
+      "source": "CBTN",
+      "seed": 2026,
+      "n_cases": 116,
+      "b0_dice": 0.8389814298860664,
+      "adult_init_dice": 0.8471151117427794,
+      "difference_dice": 0.00813368185671299,
+      "difference_percentage_points": 0.8133681856712991,
+      "paired_ci95_dice": [
+        -0.006295507677447572,
+        0.02323936783198561
+      ]
+    },
+    {
+      "subset": "all",
+      "region": "TC",
+      "source": "CBTN",
+      "seed": 2027,
+      "n_cases": 116,
+      "b0_dice": 0.8353233896191431,
+      "adult_init_dice": 0.8330821184624919,
+      "difference_dice": -0.0022412711566511066,
+      "difference_percentage_points": -0.22412711566511065,
+      "paired_ci95_dice": [
+        -0.011906356715533343,
+        0.0072271829810361616
+      ]
+    },
+    {
+      "subset": "all",
+      "region": "TC",
+      "source": "CBTN",
+      "seed": 2028,
+      "n_cases": 116,
+      "b0_dice": 0.8400686638457002,
+      "adult_init_dice": 0.8407117622180066,
+      "difference_dice": 0.0006430983723061887,
+      "difference_percentage_points": 0.06430983723061888,
+      "paired_ci95_dice": [
+        -0.01806137395915864,
+        0.021091742936460153
+      ]
+    },
+    {
+      "subset": "all",
+      "region": "TC",
+      "source": "DFCI-BCH-BWH-PEDs-HGG",
+      "seed": 2026,
+      "n_cases": 61,
+      "b0_dice": 0.6742534896423377,
+      "adult_init_dice": 0.6991402859013952,
+      "difference_dice": 0.024886796259057438,
+      "difference_percentage_points": 2.488679625905744,
+      "paired_ci95_dice": [
+        -0.0034283749370982055,
+        0.055346566402100277
+      ]
+    },
+    {
+      "subset": "all",
+      "region": "TC",
+      "source": "DFCI-BCH-BWH-PEDs-HGG",
+      "seed": 2027,
+      "n_cases": 61,
+      "b0_dice": 0.6802425567466527,
+      "adult_init_dice": 0.6978408634026241,
+      "difference_dice": 0.017598306655971355,
+      "difference_percentage_points": 1.7598306655971354,
+      "paired_ci95_dice": [
+        -0.012326259158795311,
+        0.04552659381491712
+      ]
+    },
+    {
+      "subset": "all",
+      "region": "TC",
+      "source": "DFCI-BCH-BWH-PEDs-HGG",
+      "seed": 2028,
+      "n_cases": 61,
+      "b0_dice": 0.6780145841378248,
+      "adult_init_dice": 0.6892000131153975,
+      "difference_dice": 0.011185428977572577,
+      "difference_percentage_points": 1.1185428977572578,
+      "paired_ci95_dice": [
+        -0.004674426181590338,
+        0.0286421885862542
+      ]
+    },
+    {
+      "subset": "all",
+      "region": "TC",
+      "source": "DIPGr",
+      "seed": 2026,
+      "n_cases": 80,
+      "b0_dice": 0.9305765903163096,
+      "adult_init_dice": 0.9346512405009847,
+      "difference_dice": 0.004074650184675187,
+      "difference_percentage_points": 0.40746501846751865,
+      "paired_ci95_dice": [
+        0.0010255435861370838,
+        0.007710160071768397
+      ]
+    },
+    {
+      "subset": "all",
+      "region": "TC",
+      "source": "DIPGr",
+      "seed": 2027,
+      "n_cases": 80,
+      "b0_dice": 0.9313548278223411,
+      "adult_init_dice": 0.9406265673805546,
+      "difference_dice": 0.00927173955821348,
+      "difference_percentage_points": 0.927173955821348,
+      "paired_ci95_dice": [
+        -0.0003652128816283107,
+        0.023843170898941442
+      ]
+    },
+    {
+      "subset": "all",
+      "region": "TC",
+      "source": "DIPGr",
+      "seed": 2028,
+      "n_cases": 80,
+      "b0_dice": 0.9315905590576457,
+      "adult_init_dice": 0.9427970807912297,
+      "difference_dice": 0.011206521733584149,
+      "difference_percentage_points": 1.120652173358415,
+      "paired_ci95_dice": [
+        0.00025845646008273066,
+        0.029695820238539103
+      ]
+    },
+    {
+      "subset": "all",
+      "region": "WT",
+      "source": "CBTN",
+      "seed": 2026,
+      "n_cases": 116,
+      "b0_dice": 0.8799595657355589,
+      "adult_init_dice": 0.8879696021022359,
+      "difference_dice": 0.008010036366677058,
+      "difference_percentage_points": 0.8010036366677058,
+      "paired_ci95_dice": [
+        -0.001864793273551368,
+        0.020383671286770426
+      ]
+    },
+    {
+      "subset": "all",
+      "region": "WT",
+      "source": "CBTN",
+      "seed": 2027,
+      "n_cases": 116,
+      "b0_dice": 0.8761582172684494,
+      "adult_init_dice": 0.8776888471250719,
+      "difference_dice": 0.0015306298566224062,
+      "difference_percentage_points": 0.1530629856622406,
+      "paired_ci95_dice": [
+        -0.0067144606286595855,
+        0.009148957406148774
+      ]
+    },
+    {
+      "subset": "all",
+      "region": "WT",
+      "source": "CBTN",
+      "seed": 2028,
+      "n_cases": 116,
+      "b0_dice": 0.8782208977974054,
+      "adult_init_dice": 0.8799511257872419,
+      "difference_dice": 0.0017302279898361984,
+      "difference_percentage_points": 0.17302279898361986,
+      "paired_ci95_dice": [
+        -0.01653609867677419,
+        0.02161856870192991
+      ]
+    },
+    {
+      "subset": "all",
+      "region": "WT",
+      "source": "DFCI-BCH-BWH-PEDs-HGG",
+      "seed": 2026,
+      "n_cases": 61,
+      "b0_dice": 0.7331966115970854,
+      "adult_init_dice": 0.7503847948162731,
+      "difference_dice": 0.01718818321918775,
+      "difference_percentage_points": 1.7188183219187751,
+      "paired_ci95_dice": [
+        -0.007937856103753851,
+        0.045923997606183924
+      ]
+    },
+    {
+      "subset": "all",
+      "region": "WT",
+      "source": "DFCI-BCH-BWH-PEDs-HGG",
+      "seed": 2027,
+      "n_cases": 61,
+      "b0_dice": 0.7303632651553913,
+      "adult_init_dice": 0.7445565887238054,
+      "difference_dice": 0.014193323568413898,
+      "difference_percentage_points": 1.4193323568413898,
+      "paired_ci95_dice": [
+        -0.012505829444379467,
+        0.03852663808849138
+      ]
+    },
+    {
+      "subset": "all",
+      "region": "WT",
+      "source": "DFCI-BCH-BWH-PEDs-HGG",
+      "seed": 2028,
+      "n_cases": 61,
+      "b0_dice": 0.7314992624813218,
+      "adult_init_dice": 0.7263372456266934,
+      "difference_dice": -0.005162016854628437,
+      "difference_percentage_points": -0.5162016854628437,
+      "paired_ci95_dice": [
+        -0.026072542844282686,
+        0.013115181613134954
+      ]
+    },
+    {
+      "subset": "all",
+      "region": "WT",
+      "source": "DIPGr",
+      "seed": 2026,
+      "n_cases": 80,
+      "b0_dice": 0.9320181647848219,
+      "adult_init_dice": 0.9359323419251838,
+      "difference_dice": 0.003914177140361863,
+      "difference_percentage_points": 0.3914177140361863,
+      "paired_ci95_dice": [
+        0.0008535295345087685,
+        0.00754387963378435
+      ]
+    },
+    {
+      "subset": "all",
+      "region": "WT",
+      "source": "DIPGr",
+      "seed": 2027,
+      "n_cases": 80,
+      "b0_dice": 0.9326361783421818,
+      "adult_init_dice": 0.9420556135672724,
+      "difference_dice": 0.00941943522509047,
+      "difference_percentage_points": 0.9419435225090469,
+      "paired_ci95_dice": [
+        -0.0001657798974370454,
+        0.024063160294455124
+      ]
+    },
+    {
+      "subset": "all",
+      "region": "WT",
+      "source": "DIPGr",
+      "seed": 2028,
+      "n_cases": 80,
+      "b0_dice": 0.932791932398799,
+      "adult_init_dice": 0.9441387824541486,
+      "difference_dice": 0.011346850055349677,
+      "difference_percentage_points": 1.1346850055349678,
+      "paired_ci95_dice": [
+        0.00038190776051916936,
+        0.02979298963062667
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "ET",
+      "source": "CBTN",
+      "seed": 2026,
+      "n_cases": 87,
+      "b0_dice": 0.5739785982330349,
+      "adult_init_dice": 0.5961256484255332,
+      "difference_dice": 0.0221470501924983,
+      "difference_percentage_points": 2.21470501924983,
+      "paired_ci95_dice": [
+        -0.0055398495555922375,
+        0.05345748718784496
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "ET",
+      "source": "CBTN",
+      "seed": 2027,
+      "n_cases": 87,
+      "b0_dice": 0.5523901399906028,
+      "adult_init_dice": 0.5610598878038296,
+      "difference_dice": 0.008669747813226835,
+      "difference_percentage_points": 0.8669747813226835,
+      "paired_ci95_dice": [
+        -0.020762824240916872,
+        0.03566547338052414
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "ET",
+      "source": "CBTN",
+      "seed": 2028,
+      "n_cases": 87,
+      "b0_dice": 0.5694083224323094,
+      "adult_init_dice": 0.574630728025932,
+      "difference_dice": 0.005222405593622505,
+      "difference_percentage_points": 0.5222405593622504,
+      "paired_ci95_dice": [
+        -0.030432072143313133,
+        0.03606732858477693
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "ET",
+      "source": "DFCI-BCH-BWH-PEDs-HGG",
+      "seed": 2026,
+      "n_cases": 35,
+      "b0_dice": 0.5723008595119061,
+      "adult_init_dice": 0.6059420291683815,
+      "difference_dice": 0.03364116965647532,
+      "difference_percentage_points": 3.364116965647532,
+      "paired_ci95_dice": [
+        0.002130140258689472,
+        0.07080614415480253
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "ET",
+      "source": "DFCI-BCH-BWH-PEDs-HGG",
+      "seed": 2027,
+      "n_cases": 35,
+      "b0_dice": 0.5880162127573462,
+      "adult_init_dice": 0.5876951230817239,
+      "difference_dice": -0.00032108967562244985,
+      "difference_percentage_points": -0.03210896756224498,
+      "paired_ci95_dice": [
+        -0.05341947361647916,
+        0.059578941373087245
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "ET",
+      "source": "DFCI-BCH-BWH-PEDs-HGG",
+      "seed": 2028,
+      "n_cases": 35,
+      "b0_dice": 0.5722977645730224,
+      "adult_init_dice": 0.5720883539613035,
+      "difference_dice": -0.00020941061171909795,
+      "difference_percentage_points": -0.020941061171909796,
+      "paired_ci95_dice": [
+        -0.022559259037498107,
+        0.022308189909425628
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "ET",
+      "source": "DIPGr",
+      "seed": 2026,
+      "n_cases": 49,
+      "b0_dice": 0.6510325003602255,
+      "adult_init_dice": 0.6652222386699153,
+      "difference_dice": 0.01418973830968994,
+      "difference_percentage_points": 1.418973830968994,
+      "paired_ci95_dice": [
+        -0.006762225901786142,
+        0.04197354888914471
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "ET",
+      "source": "DIPGr",
+      "seed": 2027,
+      "n_cases": 49,
+      "b0_dice": 0.6109721530928139,
+      "adult_init_dice": 0.6715053877926227,
+      "difference_dice": 0.0605332346998088,
+      "difference_percentage_points": 6.05332346998088,
+      "paired_ci95_dice": [
+        0.027817230703143802,
+        0.09613594701840643
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "ET",
+      "source": "DIPGr",
+      "seed": 2028,
+      "n_cases": 49,
+      "b0_dice": 0.6635485499877614,
+      "adult_init_dice": 0.6985511496013258,
+      "difference_dice": 0.03500259961356452,
+      "difference_percentage_points": 3.500259961356452,
+      "paired_ci95_dice": [
+        0.005490834147913037,
+        0.07151617251533322
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "NET",
+      "source": "CBTN",
+      "seed": 2026,
+      "n_cases": 116,
+      "b0_dice": 0.7301277514639934,
+      "adult_init_dice": 0.7308369073565812,
+      "difference_dice": 0.0007091558925876016,
+      "difference_percentage_points": 0.07091558925876017,
+      "paired_ci95_dice": [
+        -0.013788000551928381,
+        0.014020430569076488
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "NET",
+      "source": "CBTN",
+      "seed": 2027,
+      "n_cases": 116,
+      "b0_dice": 0.7237368307791464,
+      "adult_init_dice": 0.7225584162028741,
+      "difference_dice": -0.0011784145762721914,
+      "difference_percentage_points": -0.11784145762721915,
+      "paired_ci95_dice": [
+        -0.011375875825446002,
+        0.00907061740895543
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "NET",
+      "source": "CBTN",
+      "seed": 2028,
+      "n_cases": 116,
+      "b0_dice": 0.7236258622765936,
+      "adult_init_dice": 0.7231725786348288,
+      "difference_dice": -0.0004532836417647311,
+      "difference_percentage_points": -0.04532836417647311,
+      "paired_ci95_dice": [
+        -0.0177546583798219,
+        0.019949934069996053
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "NET",
+      "source": "DFCI-BCH-BWH-PEDs-HGG",
+      "seed": 2026,
+      "n_cases": 60,
+      "b0_dice": 0.6093755999298099,
+      "adult_init_dice": 0.6326760719511332,
+      "difference_dice": 0.023300472021323296,
+      "difference_percentage_points": 2.3300472021323295,
+      "paired_ci95_dice": [
+        -0.006890122918849573,
+        0.0555432181180607
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "NET",
+      "source": "DFCI-BCH-BWH-PEDs-HGG",
+      "seed": 2027,
+      "n_cases": 60,
+      "b0_dice": 0.6240308371185086,
+      "adult_init_dice": 0.631133043783771,
+      "difference_dice": 0.007102206665262388,
+      "difference_percentage_points": 0.7102206665262388,
+      "paired_ci95_dice": [
+        -0.023700084885158727,
+        0.034138926675308094
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "NET",
+      "source": "DFCI-BCH-BWH-PEDs-HGG",
+      "seed": 2028,
+      "n_cases": 60,
+      "b0_dice": 0.6049820385129767,
+      "adult_init_dice": 0.6249852292386288,
+      "difference_dice": 0.020003190725652008,
+      "difference_percentage_points": 2.0003190725652007,
+      "paired_ci95_dice": [
+        0.0010159242142357052,
+        0.04197068632218348
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "NET",
+      "source": "DIPGr",
+      "seed": 2026,
+      "n_cases": 80,
+      "b0_dice": 0.9131379428846804,
+      "adult_init_dice": 0.9172295512950395,
+      "difference_dice": 0.004091608410359181,
+      "difference_percentage_points": 0.4091608410359181,
+      "paired_ci95_dice": [
+        0.0007258206032615378,
+        0.008441176510376847
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "NET",
+      "source": "DIPGr",
+      "seed": 2027,
+      "n_cases": 80,
+      "b0_dice": 0.9149400836097747,
+      "adult_init_dice": 0.9203836681607285,
+      "difference_dice": 0.005443584550953739,
+      "difference_percentage_points": 0.5443584550953738,
+      "paired_ci95_dice": [
+        -0.0004539967657838938,
+        0.01253325943650504
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "NET",
+      "source": "DIPGr",
+      "seed": 2028,
+      "n_cases": 80,
+      "b0_dice": 0.9149114081766065,
+      "adult_init_dice": 0.9220640789370662,
+      "difference_dice": 0.00715267076045963,
+      "difference_percentage_points": 0.715267076045963,
+      "paired_ci95_dice": [
+        -0.0005562352970451752,
+        0.01815137578084658
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "CC",
+      "source": "CBTN",
+      "seed": 2026,
+      "n_cases": 57,
+      "b0_dice": 0.0680447771037996,
+      "adult_init_dice": 0.11009509739019042,
+      "difference_dice": 0.04205032028639082,
+      "difference_percentage_points": 4.205032028639082,
+      "paired_ci95_dice": [
+        -0.008364698796939542,
+        0.09766843951596993
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "CC",
+      "source": "CBTN",
+      "seed": 2027,
+      "n_cases": 57,
+      "b0_dice": 0.10903334256762598,
+      "adult_init_dice": 0.08714936354419595,
+      "difference_dice": -0.02188397902343002,
+      "difference_percentage_points": -2.188397902343002,
+      "paired_ci95_dice": [
+        -0.06446186732212306,
+        0.016439465195003677
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "CC",
+      "source": "CBTN",
+      "seed": 2028,
+      "n_cases": 57,
+      "b0_dice": 0.10889465452258382,
+      "adult_init_dice": 0.07621183398218871,
+      "difference_dice": -0.03268282054039512,
+      "difference_percentage_points": -3.2682820540395117,
+      "paired_ci95_dice": [
+        -0.08602570602365545,
+        0.011913981595867108
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "CC",
+      "source": "DFCI-BCH-BWH-PEDs-HGG",
+      "seed": 2026,
+      "n_cases": 14,
+      "b0_dice": 0.21947151590419184,
+      "adult_init_dice": 0.2874340141003879,
+      "difference_dice": 0.06796249819619606,
+      "difference_percentage_points": 6.7962498196196055,
+      "paired_ci95_dice": [
+        -0.024655400338838174,
+        0.20086432627840728
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "CC",
+      "source": "DFCI-BCH-BWH-PEDs-HGG",
+      "seed": 2027,
+      "n_cases": 14,
+      "b0_dice": 0.26755657070593825,
+      "adult_init_dice": 0.33404803851696185,
+      "difference_dice": 0.06649146781102358,
+      "difference_percentage_points": 6.649146781102358,
+      "paired_ci95_dice": [
+        -0.013653343756608205,
+        0.18120221461803215
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "CC",
+      "source": "DFCI-BCH-BWH-PEDs-HGG",
+      "seed": 2028,
+      "n_cases": 14,
+      "b0_dice": 0.2625136925565903,
+      "adult_init_dice": 0.32724089459467987,
+      "difference_dice": 0.06472720203808961,
+      "difference_percentage_points": 6.4727202038089615,
+      "paired_ci95_dice": [
+        -0.045189493266133425,
+        0.18692937694510603
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "CC",
+      "source": "DIPGr",
+      "seed": 2026,
+      "n_cases": 12,
+      "b0_dice": 0.15100908494136825,
+      "adult_init_dice": 0.19987047230597352,
+      "difference_dice": 0.048861387364605234,
+      "difference_percentage_points": 4.8861387364605235,
+      "paired_ci95_dice": [
+        -0.003216748899942975,
+        0.1419002755553167
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "CC",
+      "source": "DIPGr",
+      "seed": 2027,
+      "n_cases": 12,
+      "b0_dice": 0.15480964233449154,
+      "adult_init_dice": 0.2231368717950731,
+      "difference_dice": 0.06832722946058155,
+      "difference_percentage_points": 6.832722946058155,
+      "paired_ci95_dice": [
+        -0.006075749150063379,
+        0.1891818821699133
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "CC",
+      "source": "DIPGr",
+      "seed": 2028,
+      "n_cases": 12,
+      "b0_dice": 0.11787355511647644,
+      "adult_init_dice": 0.20277183777984664,
+      "difference_dice": 0.0848982826633702,
+      "difference_percentage_points": 8.48982826633702,
+      "paired_ci95_dice": [
+        -0.008329604098581106,
+        0.22073033407776657
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "ED",
+      "source": "CBTN",
+      "seed": 2026,
+      "n_cases": 31,
+      "b0_dice": 0.16279506430613586,
+      "adult_init_dice": 0.28047626842135187,
+      "difference_dice": 0.11768120411521601,
+      "difference_percentage_points": 11.768120411521602,
+      "paired_ci95_dice": [
+        0.06263451216046222,
+        0.17665066459910103
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "ED",
+      "source": "CBTN",
+      "seed": 2027,
+      "n_cases": 31,
+      "b0_dice": 0.26078930218688595,
+      "adult_init_dice": 0.25372944727441255,
+      "difference_dice": -0.007059854912473414,
+      "difference_percentage_points": -0.7059854912473413,
+      "paired_ci95_dice": [
+        -0.0520321980500703,
+        0.05094324427847413
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "ED",
+      "source": "CBTN",
+      "seed": 2028,
+      "n_cases": 31,
+      "b0_dice": 0.2741374392181915,
+      "adult_init_dice": 0.28734749487326067,
+      "difference_dice": 0.013210055655069188,
+      "difference_percentage_points": 1.3210055655069188,
+      "paired_ci95_dice": [
+        -0.036316172523807866,
+        0.06368267399896682
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "ED",
+      "source": "DFCI-BCH-BWH-PEDs-HGG",
+      "seed": 2026,
+      "n_cases": 14,
+      "b0_dice": 0.38989967448546053,
+      "adult_init_dice": 0.46090397221070295,
+      "difference_dice": 0.0710042977252424,
+      "difference_percentage_points": 7.10042977252424,
+      "paired_ci95_dice": [
+        0.006077394776164251,
+        0.15394061607702722
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "ED",
+      "source": "DFCI-BCH-BWH-PEDs-HGG",
+      "seed": 2027,
+      "n_cases": 14,
+      "b0_dice": 0.38420350233708456,
+      "adult_init_dice": 0.445250839455878,
+      "difference_dice": 0.061047337118793434,
+      "difference_percentage_points": 6.104733711879343,
+      "paired_ci95_dice": [
+        0.00662860862679625,
+        0.12434616516574006
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "ED",
+      "source": "DFCI-BCH-BWH-PEDs-HGG",
+      "seed": 2028,
+      "n_cases": 14,
+      "b0_dice": 0.4133984238387271,
+      "adult_init_dice": 0.43283308759321887,
+      "difference_dice": 0.01943466375449182,
+      "difference_percentage_points": 1.943466375449182,
+      "paired_ci95_dice": [
+        -0.03715456382056104,
+        0.07316422361492182
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "ED",
+      "source": "DIPGr",
+      "seed": 2026,
+      "n_cases": 7,
+      "b0_dice": 0.08338948787061995,
+      "adult_init_dice": 0.0,
+      "difference_dice": -0.08338948787061995,
+      "difference_percentage_points": -8.338948787061994,
+      "paired_ci95_dice": [
+        -0.25016846361185985,
+        0.0
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "ED",
+      "source": "DIPGr",
+      "seed": 2027,
+      "n_cases": 7,
+      "b0_dice": 0.043066322136089574,
+      "adult_init_dice": 0.1033574857464373,
+      "difference_dice": 0.06029116361034772,
+      "difference_percentage_points": 6.029116361034772,
+      "paired_ci95_dice": [
+        0.012425858481868269,
+        0.11962336529834536
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "ED",
+      "source": "DIPGr",
+      "seed": 2028,
+      "n_cases": 7,
+      "b0_dice": 0.008403361344537815,
+      "adult_init_dice": 0.05092731829573934,
+      "difference_dice": 0.04252395695120153,
+      "difference_percentage_points": 4.2523956951201525,
+      "paired_ci95_dice": [
+        0.0,
+        0.12757187085360458
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "TC",
+      "source": "CBTN",
+      "seed": 2026,
+      "n_cases": 116,
+      "b0_dice": 0.8389814298860664,
+      "adult_init_dice": 0.8471151117427794,
+      "difference_dice": 0.00813368185671299,
+      "difference_percentage_points": 0.8133681856712991,
+      "paired_ci95_dice": [
+        -0.006295507677447572,
+        0.02323936783198561
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "TC",
+      "source": "CBTN",
+      "seed": 2027,
+      "n_cases": 116,
+      "b0_dice": 0.8353233896191431,
+      "adult_init_dice": 0.8330821184624919,
+      "difference_dice": -0.0022412711566511066,
+      "difference_percentage_points": -0.22412711566511065,
+      "paired_ci95_dice": [
+        -0.011906356715533343,
+        0.0072271829810361616
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "TC",
+      "source": "CBTN",
+      "seed": 2028,
+      "n_cases": 116,
+      "b0_dice": 0.8400686638457002,
+      "adult_init_dice": 0.8407117622180066,
+      "difference_dice": 0.0006430983723061887,
+      "difference_percentage_points": 0.06430983723061888,
+      "paired_ci95_dice": [
+        -0.01806137395915864,
+        0.021091742936460153
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "TC",
+      "source": "DFCI-BCH-BWH-PEDs-HGG",
+      "seed": 2026,
+      "n_cases": 61,
+      "b0_dice": 0.6742534896423377,
+      "adult_init_dice": 0.6991402859013952,
+      "difference_dice": 0.024886796259057438,
+      "difference_percentage_points": 2.488679625905744,
+      "paired_ci95_dice": [
+        -0.0034283749370982055,
+        0.055346566402100277
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "TC",
+      "source": "DFCI-BCH-BWH-PEDs-HGG",
+      "seed": 2027,
+      "n_cases": 61,
+      "b0_dice": 0.6802425567466527,
+      "adult_init_dice": 0.6978408634026241,
+      "difference_dice": 0.017598306655971355,
+      "difference_percentage_points": 1.7598306655971354,
+      "paired_ci95_dice": [
+        -0.012326259158795311,
+        0.04552659381491712
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "TC",
+      "source": "DFCI-BCH-BWH-PEDs-HGG",
+      "seed": 2028,
+      "n_cases": 61,
+      "b0_dice": 0.6780145841378248,
+      "adult_init_dice": 0.6892000131153975,
+      "difference_dice": 0.011185428977572577,
+      "difference_percentage_points": 1.1185428977572578,
+      "paired_ci95_dice": [
+        -0.004674426181590338,
+        0.0286421885862542
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "TC",
+      "source": "DIPGr",
+      "seed": 2026,
+      "n_cases": 80,
+      "b0_dice": 0.9305765903163096,
+      "adult_init_dice": 0.9346512405009847,
+      "difference_dice": 0.004074650184675187,
+      "difference_percentage_points": 0.40746501846751865,
+      "paired_ci95_dice": [
+        0.0010255435861370838,
+        0.007710160071768397
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "TC",
+      "source": "DIPGr",
+      "seed": 2027,
+      "n_cases": 80,
+      "b0_dice": 0.9313548278223411,
+      "adult_init_dice": 0.9406265673805546,
+      "difference_dice": 0.00927173955821348,
+      "difference_percentage_points": 0.927173955821348,
+      "paired_ci95_dice": [
+        -0.0003652128816283107,
+        0.023843170898941442
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "TC",
+      "source": "DIPGr",
+      "seed": 2028,
+      "n_cases": 80,
+      "b0_dice": 0.9315905590576457,
+      "adult_init_dice": 0.9427970807912297,
+      "difference_dice": 0.011206521733584149,
+      "difference_percentage_points": 1.120652173358415,
+      "paired_ci95_dice": [
+        0.00025845646008273066,
+        0.029695820238539103
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "WT",
+      "source": "CBTN",
+      "seed": 2026,
+      "n_cases": 116,
+      "b0_dice": 0.8799595657355589,
+      "adult_init_dice": 0.8879696021022359,
+      "difference_dice": 0.008010036366677058,
+      "difference_percentage_points": 0.8010036366677058,
+      "paired_ci95_dice": [
+        -0.001864793273551368,
+        0.020383671286770426
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "WT",
+      "source": "CBTN",
+      "seed": 2027,
+      "n_cases": 116,
+      "b0_dice": 0.8761582172684494,
+      "adult_init_dice": 0.8776888471250719,
+      "difference_dice": 0.0015306298566224062,
+      "difference_percentage_points": 0.1530629856622406,
+      "paired_ci95_dice": [
+        -0.0067144606286595855,
+        0.009148957406148774
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "WT",
+      "source": "CBTN",
+      "seed": 2028,
+      "n_cases": 116,
+      "b0_dice": 0.8782208977974054,
+      "adult_init_dice": 0.8799511257872419,
+      "difference_dice": 0.0017302279898361984,
+      "difference_percentage_points": 0.17302279898361986,
+      "paired_ci95_dice": [
+        -0.01653609867677419,
+        0.02161856870192991
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "WT",
+      "source": "DFCI-BCH-BWH-PEDs-HGG",
+      "seed": 2026,
+      "n_cases": 61,
+      "b0_dice": 0.7331966115970854,
+      "adult_init_dice": 0.7503847948162731,
+      "difference_dice": 0.01718818321918775,
+      "difference_percentage_points": 1.7188183219187751,
+      "paired_ci95_dice": [
+        -0.007937856103753851,
+        0.045923997606183924
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "WT",
+      "source": "DFCI-BCH-BWH-PEDs-HGG",
+      "seed": 2027,
+      "n_cases": 61,
+      "b0_dice": 0.7303632651553913,
+      "adult_init_dice": 0.7445565887238054,
+      "difference_dice": 0.014193323568413898,
+      "difference_percentage_points": 1.4193323568413898,
+      "paired_ci95_dice": [
+        -0.012505829444379467,
+        0.03852663808849138
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "WT",
+      "source": "DFCI-BCH-BWH-PEDs-HGG",
+      "seed": 2028,
+      "n_cases": 61,
+      "b0_dice": 0.7314992624813218,
+      "adult_init_dice": 0.7263372456266934,
+      "difference_dice": -0.005162016854628437,
+      "difference_percentage_points": -0.5162016854628437,
+      "paired_ci95_dice": [
+        -0.026072542844282686,
+        0.013115181613134954
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "WT",
+      "source": "DIPGr",
+      "seed": 2026,
+      "n_cases": 80,
+      "b0_dice": 0.9320181647848219,
+      "adult_init_dice": 0.9359323419251838,
+      "difference_dice": 0.003914177140361863,
+      "difference_percentage_points": 0.3914177140361863,
+      "paired_ci95_dice": [
+        0.0008535295345087685,
+        0.00754387963378435
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "WT",
+      "source": "DIPGr",
+      "seed": 2027,
+      "n_cases": 80,
+      "b0_dice": 0.9326361783421818,
+      "adult_init_dice": 0.9420556135672724,
+      "difference_dice": 0.00941943522509047,
+      "difference_percentage_points": 0.9419435225090469,
+      "paired_ci95_dice": [
+        -0.0001657798974370454,
+        0.024063160294455124
+      ]
+    },
+    {
+      "subset": "positive",
+      "region": "WT",
+      "source": "DIPGr",
+      "seed": 2028,
+      "n_cases": 80,
+      "b0_dice": 0.932791932398799,
+      "adult_init_dice": 0.9441387824541486,
+      "difference_dice": 0.011346850055349677,
+      "difference_percentage_points": 1.1346850055349678,
+      "paired_ci95_dice": [
+        0.00038190776051916936,
+        0.02979298963062667
+      ]
+    }
+  ]
+}

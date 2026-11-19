@@ -1,0 +1,129 @@
+{
+  "protocol_version": "1.0.0",
+  "frozen_at": "2026-08-08",
+  "manifest": "data/processed/manifest.csv",
+  "random_seeds": [
+    2026,
+    2027,
+    2028
+  ],
+  "pediatric_dataset": {
+    "dataset": "brats_peds",
+    "labeled_split": "Training",
+    "expected_labeled_cases": 257,
+    "expected_unlabeled_validation_cases": 91,
+    "sources": {
+      "CBTN": 116,
+      "DFCI-BCH-BWH-PEDs-HGG": 61,
+      "DIPGr": 80
+    },
+    "modalities": [
+      "t1n",
+      "t1c",
+      "t2w",
+      "t2f"
+    ],
+    "labels": {
+      "background": 0,
+      "ET": 1,
+      "NET": 2,
+      "CC": 3,
+      "ED": 4
+    },
+    "derived_regions": {
+      "ET": [
+        1
+      ],
+      "TC": [
+        1,
+        2,
+        3
+      ],
+      "WT": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  },
+  "outer_folds": [
+    {
+      "fold": 0,
+      "held_out_source": "CBTN"
+    },
+    {
+      "fold": 1,
+      "held_out_source": "DFCI-BCH-BWH-PEDs-HGG"
+    },
+    {
+      "fold": 2,
+      "held_out_source": "DIPGr"
+    }
+  ],
+  "models": {
+    "B0": {
+      "name": "pediatric_only_nnunet_v2_resenc_m_fullres",
+      "role": "primary_strong_baseline",
+      "output": "mutually_exclusive_native_labels",
+      "estimated_gpu_memory_gb": "9-11"
+    },
+    "P1": {
+      "name": "coarse_to_fine_et_with_presence_head",
+      "role": "proposed_et_small_target_model",
+      "roi_shape_dhw": [
+        96,
+        112,
+        112
+      ],
+      "roi_spacing_mm": 1,
+      "inference_roi": "predicted_WT_only"
+    },
+    "A1": {
+      "name": "adult_to_pediatric_transfer",
+      "role": "exploratory",
+      "regions": [
+        "ET",
+        "TC",
+        "WT"
+      ]
+    }
+  },
+  "primary_metrics": [
+    "Dice",
+    "HD95_mm",
+    "NSD_1mm"
+  ],
+  "et_metrics": [
+    "positive_case_Dice",
+    "lesion_overlap_sensitivity",
+    "lesion_PPV",
+    "negative_case_specificity",
+    "false_positive_volume_mm3",
+    "predicted_roi_ET_coverage"
+  ],
+  "et_success_gate": {
+    "paired_Dice_CI_low_greater_than": 0,
+    "maximum_sensitivity_drop": 0.05,
+    "maximum_specificity_drop": 0.05
+  },
+  "uncertainty": {
+    "method": "three_seed_deep_ensemble",
+    "failure_detection_metric": "AUROC",
+    "selective_prediction": "risk_coverage"
+  },
+  "bootstrap_resamples": 2000,
+  "nnunet": {
+    "dataset_id": 501,
+    "dataset_name": "BraTSPEDs",
+    "configuration": "3d_fullres",
+    "trainer": "nnUNetTrainer",
+    "planner": "nnUNetPlannerResEncM",
+    "plans": "nnUNetResEncUNetMPlans",
+    "compatibility_plans": "nnUNetPlans"
+  },
+  "prognosis_gate": {
+    "enabled": false,
+    "reason": "Incomplete death/censoring status in current public metadata"
+  }
+}

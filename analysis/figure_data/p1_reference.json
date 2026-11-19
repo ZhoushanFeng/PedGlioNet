@@ -1,0 +1,907 @@
+{
+  "records": [
+    {
+      "scope": "pooled",
+      "method": "b0_ensemble",
+      "n": 257,
+      "positive_dice": {
+        "n": 171,
+        "value": 0.5987779520962927,
+        "ci_low": 0.5481471121903673,
+        "ci_high": 0.6482225363580972
+      },
+      "all_dice": {
+        "n": 257,
+        "value": 0.6902374700718523,
+        "ci_low": 0.6436000736688858,
+        "ci_high": 0.734549468181739
+      },
+      "positive_dice_difference_vs_b0": {
+        "n": 171,
+        "value": 0.0,
+        "ci_low": 0.0,
+        "ci_high": 0.0
+      },
+      "negative_specificity": {
+        "n": 86,
+        "value": 0.872093023255814,
+        "ci_low": 0.8023255813953488,
+        "ci_high": 0.9418604651162791
+      },
+      "specificity_difference_vs_b0": {
+        "n": 86,
+        "value": 0.0,
+        "ci_low": 0.0,
+        "ci_high": 0.0
+      },
+      "negative_fp_mm3": {
+        "n": 86,
+        "value": 75.4186046511628,
+        "ci_low": 14.045348837209302,
+        "ci_high": 166.71220930232556
+      },
+      "roi_coverage": {
+        "roi_et_coverage": {
+          "n": 171,
+          "value": 0.981663787605749,
+          "ci_low": 0.9619959902801032,
+          "ci_high": 0.9964054866370992
+        },
+        "oracle_roi_et_coverage": {
+          "n": 171,
+          "value": 0.9847197559264036,
+          "ci_low": 0.9709106344580788,
+          "ci_high": 0.996032714015479
+        }
+      },
+      "lesion_sensitivity": {
+        "value": 0.3203309692671395,
+        "ci_low": 0.26386628884982255,
+        "ci_high": 0.3871480653257366
+      },
+      "lesion_sensitivity_difference_vs_b0": {
+        "value": 0.0,
+        "ci_low": 0.0,
+        "ci_high": 0.0
+      },
+      "lesion_ppv": {
+        "value": 0.6195652173913043,
+        "ci_low": 0.5102306829013314,
+        "ci_high": 0.7342662337662338
+      },
+      "lesion_ppv_difference_vs_b0": {
+        "value": 0.0,
+        "ci_low": 0.0,
+        "ci_high": 0.0
+      }
+    },
+    {
+      "scope": "pooled",
+      "method": "p1_ungated",
+      "n": 257,
+      "positive_dice": {
+        "n": 171,
+        "value": 0.4557336001806473,
+        "ci_low": 0.4101675297521722,
+        "ci_high": 0.4993534196895633
+      },
+      "all_dice": {
+        "n": 257,
+        "value": 0.45109122813576136,
+        "ci_low": 0.4062675239338651,
+        "ci_high": 0.4955100432218888
+      },
+      "positive_dice_difference_vs_b0": {
+        "n": 171,
+        "value": -0.14304435191564543,
+        "ci_low": -0.17722675826919976,
+        "ci_high": -0.10831227675269094
+      },
+      "negative_specificity": {
+        "n": 86,
+        "value": 0.4418604651162791,
+        "ci_low": 0.3488372093023256,
+        "ci_high": 0.5348837209302325
+      },
+      "specificity_difference_vs_b0": {
+        "n": 86,
+        "value": -0.43023255813953487,
+        "ci_low": -0.5348837209302325,
+        "ci_high": -0.32558139534883723
+      },
+      "negative_fp_mm3": {
+        "n": 86,
+        "value": 644.2093023255813,
+        "ci_low": 298.24011627906975,
+        "ci_high": 1040.2191860465114
+      },
+      "roi_coverage": {
+        "roi_et_coverage": {
+          "n": 171,
+          "value": 0.981663787605749,
+          "ci_low": 0.9619959902801032,
+          "ci_high": 0.9964054866370992
+        },
+        "oracle_roi_et_coverage": {
+          "n": 171,
+          "value": 0.9847197559264036,
+          "ci_low": 0.9709106344580788,
+          "ci_high": 0.996032714015479
+        }
+      },
+      "lesion_sensitivity": {
+        "value": 0.26832151300236406,
+        "ci_low": 0.22316816005709247,
+        "ci_high": 0.3215787138752746
+      },
+      "lesion_sensitivity_difference_vs_b0": {
+        "value": -0.05200945626477543,
+        "ci_low": -0.09868937451160112,
+        "ci_high": -0.007003031068451691
+      },
+      "lesion_ppv": {
+        "value": 0.5405405405405406,
+        "ci_low": 0.4596640830927576,
+        "ci_high": 0.6156866796305299
+      },
+      "lesion_ppv_difference_vs_b0": {
+        "value": -0.07902467685076375,
+        "ci_low": -0.22111932428088427,
+        "ci_high": 0.04928201173981423
+      }
+    },
+    {
+      "scope": "pooled",
+      "method": "p1_gated",
+      "n": 257,
+      "positive_dice": {
+        "n": 171,
+        "value": 0.29504976611643846,
+        "ci_low": 0.25349015638015227,
+        "ci_high": 0.3376969223740645
+      },
+      "all_dice": {
+        "n": 257,
+        "value": 0.4375622957428443,
+        "ci_low": 0.3888093517524446,
+        "ci_high": 0.4886412276722799
+      },
+      "positive_dice_difference_vs_b0": {
+        "n": 171,
+        "value": -0.30372818597985424,
+        "ci_low": -0.3503187320069293,
+        "ci_high": -0.2552041892441168
+      },
+      "negative_specificity": {
+        "n": 86,
+        "value": 0.7209302325581395,
+        "ci_low": 0.627906976744186,
+        "ci_high": 0.813953488372093
+      },
+      "specificity_difference_vs_b0": {
+        "n": 86,
+        "value": -0.1511627906976744,
+        "ci_low": -0.2558139534883721,
+        "ci_high": -0.046511627906976744
+      },
+      "negative_fp_mm3": {
+        "n": 86,
+        "value": 343.3720930232558,
+        "ci_low": 103.34680232558141,
+        "ci_high": 695.2229651162789
+      },
+      "roi_coverage": {
+        "roi_et_coverage": {
+          "n": 171,
+          "value": 0.981663787605749,
+          "ci_low": 0.9619959902801032,
+          "ci_high": 0.9964054866370992
+        },
+        "oracle_roi_et_coverage": {
+          "n": 171,
+          "value": 0.9847197559264036,
+          "ci_low": 0.9709106344580788,
+          "ci_high": 0.996032714015479
+        }
+      },
+      "lesion_sensitivity": {
+        "value": 0.1879432624113475,
+        "ci_low": 0.14580575555126055,
+        "ci_high": 0.23722935537771522
+      },
+      "lesion_sensitivity_difference_vs_b0": {
+        "value": -0.132387706855792,
+        "ci_low": -0.18787024564623686,
+        "ci_high": -0.08221798016469112
+      },
+      "lesion_ppv": {
+        "value": 0.6070175438596491,
+        "ci_low": 0.512193012068529,
+        "ci_high": 0.7035569612364451
+      },
+      "lesion_ppv_difference_vs_b0": {
+        "value": -0.012547673531655201,
+        "ci_low": -0.1665605946751,
+        "ci_high": 0.1239988142115034
+      }
+    },
+    {
+      "scope": "fold0",
+      "method": "b0_ensemble",
+      "n": 116,
+      "positive_dice": {
+        "n": 87,
+        "value": 0.5760489624644499,
+        "ci_low": 0.5077237094837742,
+        "ci_high": 0.640310864647664
+      },
+      "all_dice": {
+        "n": 116,
+        "value": 0.6647953425379928,
+        "ci_low": 0.6008354018226783,
+        "ci_high": 0.7264457315563729
+      },
+      "positive_dice_difference_vs_b0": {
+        "n": 87,
+        "value": 0.0,
+        "ci_low": 0.0,
+        "ci_high": 0.0
+      },
+      "negative_specificity": {
+        "n": 29,
+        "value": 0.9310344827586207,
+        "ci_low": 0.8275862068965517,
+        "ci_high": 1.0
+      },
+      "specificity_difference_vs_b0": {
+        "n": 29,
+        "value": 0.0,
+        "ci_low": 0.0,
+        "ci_high": 0.0
+      },
+      "negative_fp_mm3": {
+        "n": 29,
+        "value": 34.93103448275862,
+        "ci_low": 0.0,
+        "ci_high": 104.79310344827586
+      },
+      "roi_coverage": {
+        "roi_et_coverage": {
+          "n": 87,
+          "value": 0.9846183366442243,
+          "ci_low": 0.9598087900150344,
+          "ci_high": 0.99892876755135
+        },
+        "oracle_roi_et_coverage": {
+          "n": 87,
+          "value": 0.9719538957038992,
+          "ci_low": 0.944279650147459,
+          "ci_high": 0.9938195796786934
+        }
+      },
+      "lesion_sensitivity": {
+        "value": 0.23509933774834438,
+        "ci_low": 0.1785657415832575,
+        "ci_high": 0.30535232978880505
+      },
+      "lesion_sensitivity_difference_vs_b0": {
+        "value": 0.0,
+        "ci_low": 0.0,
+        "ci_high": 0.0
+      },
+      "lesion_ppv": {
+        "value": 0.6829268292682927,
+        "ci_low": 0.6026186877169409,
+        "ci_high": 0.7663134057971014
+      },
+      "lesion_ppv_difference_vs_b0": {
+        "value": 0.0,
+        "ci_low": 0.0,
+        "ci_high": 0.0
+      }
+    },
+    {
+      "scope": "fold0",
+      "method": "p1_ungated",
+      "n": 116,
+      "positive_dice": {
+        "n": 87,
+        "value": 0.43821712008584823,
+        "ci_low": 0.3803646569795725,
+        "ci_high": 0.49207736445928263
+      },
+      "all_dice": {
+        "n": 116,
+        "value": 0.4752145642023172,
+        "ci_low": 0.41123899061145364,
+        "ci_high": 0.539030953506904
+      },
+      "positive_dice_difference_vs_b0": {
+        "n": 87,
+        "value": -0.13783184237860197,
+        "ci_low": -0.1873889861722782,
+        "ci_high": -0.09350977618161983
+      },
+      "negative_specificity": {
+        "n": 29,
+        "value": 0.5862068965517241,
+        "ci_low": 0.41379310344827586,
+        "ci_high": 0.7586206896551724
+      },
+      "specificity_difference_vs_b0": {
+        "n": 29,
+        "value": -0.3448275862068966,
+        "ci_low": -0.5172413793103449,
+        "ci_high": -0.1724137931034483
+      },
+      "negative_fp_mm3": {
+        "n": 29,
+        "value": 601.8965517241379,
+        "ci_low": 89.03103448275861,
+        "ci_high": 1490.5905172413793
+      },
+      "roi_coverage": {
+        "roi_et_coverage": {
+          "n": 87,
+          "value": 0.9846183366442243,
+          "ci_low": 0.9598087900150344,
+          "ci_high": 0.99892876755135
+        },
+        "oracle_roi_et_coverage": {
+          "n": 87,
+          "value": 0.9719538957038992,
+          "ci_low": 0.944279650147459,
+          "ci_high": 0.9938195796786934
+        }
+      },
+      "lesion_sensitivity": {
+        "value": 0.18874172185430463,
+        "ci_low": 0.1451378614522201,
+        "ci_high": 0.23766940510116336
+      },
+      "lesion_sensitivity_difference_vs_b0": {
+        "value": -0.04635761589403975,
+        "ci_low": -0.10693445510354142,
+        "ci_high": 0.01060491981516716
+      },
+      "lesion_ppv": {
+        "value": 0.6954314720812182,
+        "ci_low": 0.5828797520209744,
+        "ci_high": 0.8010471204188482
+      },
+      "lesion_ppv_difference_vs_b0": {
+        "value": 0.012504642812925515,
+        "ci_low": -0.13540879845493933,
+        "ci_high": 0.15011100428830565
+      }
+    },
+    {
+      "scope": "fold0",
+      "method": "p1_gated",
+      "n": 116,
+      "positive_dice": {
+        "n": 87,
+        "value": 0.43199568809696,
+        "ci_low": 0.37372895672356565,
+        "ci_high": 0.4883165090781859
+      },
+      "all_dice": {
+        "n": 116,
+        "value": 0.47054849021065104,
+        "ci_low": 0.40800839682984563,
+        "ci_high": 0.5352776744871494
+      },
+      "positive_dice_difference_vs_b0": {
+        "n": 87,
+        "value": -0.14405327436749013,
+        "ci_low": -0.19688574550939925,
+        "ci_high": -0.09847863224088818
+      },
+      "negative_specificity": {
+        "n": 29,
+        "value": 0.5862068965517241,
+        "ci_low": 0.41379310344827586,
+        "ci_high": 0.7586206896551724
+      },
+      "specificity_difference_vs_b0": {
+        "n": 29,
+        "value": -0.3448275862068966,
+        "ci_low": -0.5172413793103449,
+        "ci_high": -0.1724137931034483
+      },
+      "negative_fp_mm3": {
+        "n": 29,
+        "value": 601.8965517241379,
+        "ci_low": 89.03103448275861,
+        "ci_high": 1490.5905172413793
+      },
+      "roi_coverage": {
+        "roi_et_coverage": {
+          "n": 87,
+          "value": 0.9846183366442243,
+          "ci_low": 0.9598087900150344,
+          "ci_high": 0.99892876755135
+        },
+        "oracle_roi_et_coverage": {
+          "n": 87,
+          "value": 0.9719538957038992,
+          "ci_low": 0.944279650147459,
+          "ci_high": 0.9938195796786934
+        }
+      },
+      "lesion_sensitivity": {
+        "value": 0.1870860927152318,
+        "ci_low": 0.14412625106552931,
+        "ci_high": 0.23597885642791913
+      },
+      "lesion_sensitivity_difference_vs_b0": {
+        "value": -0.04801324503311258,
+        "ci_low": -0.10881085517878215,
+        "ci_high": 0.010067537081946883
+      },
+      "lesion_ppv": {
+        "value": 0.6938775510204082,
+        "ci_low": 0.5798995952677459,
+        "ci_high": 0.7990669856459328
+      },
+      "lesion_ppv_difference_vs_b0": {
+        "value": 0.010950721752115422,
+        "ci_low": -0.13745935944462134,
+        "ci_high": 0.14904687413135986
+      }
+    },
+    {
+      "scope": "fold1",
+      "method": "b0_ensemble",
+      "n": 61,
+      "positive_dice": {
+        "n": 35,
+        "value": 0.5797650034405919,
+        "ci_low": 0.47365279442725833,
+        "ci_high": 0.6758183437785359
+      },
+      "all_dice": {
+        "n": 61,
+        "value": 0.6605209036134544,
+        "ci_low": 0.5618497227794546,
+        "ci_high": 0.7542630821808534
+      },
+      "positive_dice_difference_vs_b0": {
+        "n": 35,
+        "value": 0.0,
+        "ci_low": 0.0,
+        "ci_high": 0.0
+      },
+      "negative_specificity": {
+        "n": 26,
+        "value": 0.7692307692307693,
+        "ci_low": 0.6153846153846154,
+        "ci_high": 0.9230769230769231
+      },
+      "specificity_difference_vs_b0": {
+        "n": 26,
+        "value": 0.0,
+        "ci_low": 0.0,
+        "ci_high": 0.0
+      },
+      "negative_fp_mm3": {
+        "n": 26,
+        "value": 47.03846153846154,
+        "ci_low": 3.3461538461538463,
+        "ci_high": 103.12788461538454
+      },
+      "roi_coverage": {
+        "roi_et_coverage": {
+          "n": 35,
+          "value": 0.960204003672635,
+          "ci_low": 0.8891049613562703,
+          "ci_high": 1.0
+        },
+        "oracle_roi_et_coverage": {
+          "n": 35,
+          "value": 1.0,
+          "ci_low": 1.0,
+          "ci_high": 1.0
+        }
+      },
+      "lesion_sensitivity": {
+        "value": 0.5596330275229358,
+        "ci_low": 0.3884205008017762,
+        "ci_high": 0.7469914139315884
+      },
+      "lesion_sensitivity_difference_vs_b0": {
+        "value": 0.0,
+        "ci_low": 0.0,
+        "ci_high": 0.0
+      },
+      "lesion_ppv": {
+        "value": 0.4431818181818182,
+        "ci_low": 0.2713436976549414,
+        "ci_high": 0.7093267767876548
+      },
+      "lesion_ppv_difference_vs_b0": {
+        "value": 0.0,
+        "ci_low": 0.0,
+        "ci_high": 0.0
+      }
+    },
+    {
+      "scope": "fold1",
+      "method": "p1_ungated",
+      "n": 61,
+      "positive_dice": {
+        "n": 35,
+        "value": 0.4380525085165128,
+        "ci_low": 0.3405407640962971,
+        "ci_high": 0.5255817000018014
+      },
+      "all_dice": {
+        "n": 61,
+        "value": 0.3005219311160319,
+        "ci_low": 0.21610200405762106,
+        "ci_high": 0.39149139115533826
+      },
+      "positive_dice_difference_vs_b0": {
+        "n": 35,
+        "value": -0.1417124949240791,
+        "ci_low": -0.24071304505730198,
+        "ci_high": -0.04553113621553337
+      },
+      "negative_specificity": {
+        "n": 26,
+        "value": 0.11538461538461539,
+        "ci_low": 0.0,
+        "ci_high": 0.231730769230764
+      },
+      "specificity_difference_vs_b0": {
+        "n": 26,
+        "value": -0.6538461538461539,
+        "ci_low": -0.8461538461538461,
+        "ci_high": -0.46153846153846156
+      },
+      "negative_fp_mm3": {
+        "n": 26,
+        "value": 876.5384615384615,
+        "ci_low": 300.5355769230769,
+        "ci_high": 1654.9355769230758
+      },
+      "roi_coverage": {
+        "roi_et_coverage": {
+          "n": 35,
+          "value": 0.960204003672635,
+          "ci_low": 0.8891049613562703,
+          "ci_high": 1.0
+        },
+        "oracle_roi_et_coverage": {
+          "n": 35,
+          "value": 1.0,
+          "ci_low": 1.0,
+          "ci_high": 1.0
+        }
+      },
+      "lesion_sensitivity": {
+        "value": 0.5137614678899083,
+        "ci_low": 0.3369484502798106,
+        "ci_high": 0.7105342422320862
+      },
+      "lesion_sensitivity_difference_vs_b0": {
+        "value": -0.04587155963302747,
+        "ci_low": -0.12069439181508149,
+        "ci_high": 0.020833333333333263
+      },
+      "lesion_ppv": {
+        "value": 0.41916167664670656,
+        "ci_low": 0.2758517447862895,
+        "ci_high": 0.5681988296135002
+      },
+      "lesion_ppv_difference_vs_b0": {
+        "value": -0.024020141535111617,
+        "ci_low": -0.3114979212920639,
+        "ci_high": 0.17227633435276968
+      }
+    },
+    {
+      "scope": "fold1",
+      "method": "p1_gated",
+      "n": 61,
+      "positive_dice": {
+        "n": 35,
+        "value": 0.15829928850404384,
+        "ci_low": 0.07826781324626525,
+        "ci_high": 0.2490417687208585
+      },
+      "all_dice": {
+        "n": 61,
+        "value": 0.4186963130760907,
+        "ci_low": 0.30188503590337695,
+        "ci_high": 0.5362388728794163
+      },
+      "positive_dice_difference_vs_b0": {
+        "n": 35,
+        "value": -0.4214657149365481,
+        "ci_low": -0.5379092795611803,
+        "ci_high": -0.30285076705007635
+      },
+      "negative_specificity": {
+        "n": 26,
+        "value": 0.7692307692307693,
+        "ci_low": 0.6153846153846154,
+        "ci_high": 0.9230769230769231
+      },
+      "specificity_difference_vs_b0": {
+        "n": 26,
+        "value": 0.0,
+        "ci_low": -0.2692307692307692,
+        "ci_high": 0.23076923076923078
+      },
+      "negative_fp_mm3": {
+        "n": 26,
+        "value": 123.03846153846153,
+        "ci_low": 21.923076923076923,
+        "ci_high": 255.46826923076918
+      },
+      "roi_coverage": {
+        "roi_et_coverage": {
+          "n": 35,
+          "value": 0.960204003672635,
+          "ci_low": 0.8891049613562703,
+          "ci_high": 1.0
+        },
+        "oracle_roi_et_coverage": {
+          "n": 35,
+          "value": 1.0,
+          "ci_low": 1.0,
+          "ci_high": 1.0
+        }
+      },
+      "lesion_sensitivity": {
+        "value": 0.26605504587155965,
+        "ci_low": 0.07756962864721485,
+        "ci_high": 0.4926048329779669
+      },
+      "lesion_sensitivity_difference_vs_b0": {
+        "value": -0.2935779816513761,
+        "ci_low": -0.4687596450617284,
+        "ci_high": -0.16881038961038966
+      },
+      "lesion_ppv": {
+        "value": 0.4528301886792453,
+        "ci_low": 0.22448979591836735,
+        "ci_high": 0.76
+      },
+      "lesion_ppv_difference_vs_b0": {
+        "value": 0.009648370497427117,
+        "ci_low": -0.32923424495013187,
+        "ci_high": 0.3298743478137577
+      }
+    },
+    {
+      "scope": "fold2",
+      "method": "b0_ensemble",
+      "n": 80,
+      "positive_dice": {
+        "n": 49,
+        "value": 0.6527141827273095,
+        "ci_low": 0.5449683266727902,
+        "ci_high": 0.7541997737197216
+      },
+      "all_dice": {
+        "n": 80,
+        "value": 0.7497874369204771,
+        "ci_low": 0.6647783012871952,
+        "ci_high": 0.8268428754242353
+      },
+      "positive_dice_difference_vs_b0": {
+        "n": 49,
+        "value": 0.0,
+        "ci_low": 0.0,
+        "ci_high": 0.0
+      },
+      "negative_specificity": {
+        "n": 31,
+        "value": 0.9032258064516129,
+        "ci_low": 0.8064516129032258,
+        "ci_high": 1.0
+      },
+      "specificity_difference_vs_b0": {
+        "n": 31,
+        "value": 0.0,
+        "ci_low": 0.0,
+        "ci_high": 0.0
+      },
+      "negative_fp_mm3": {
+        "n": 31,
+        "value": 137.09677419354838,
+        "ci_low": 0.0,
+        "ci_high": 379.19354838709677
+      },
+      "roi_coverage": {
+        "roi_et_coverage": {
+          "n": 49,
+          "value": 0.9917463727345576,
+          "ci_low": 0.9752391182036724,
+          "ci_high": 1.0
+        },
+        "oracle_roi_et_coverage": {
+          "n": 49,
+          "value": 0.9964712109627712,
+          "ci_low": 0.9894136328883139,
+          "ci_high": 1.0
+        }
+      },
+      "lesion_sensitivity": {
+        "value": 0.5112781954887218,
+        "ci_low": 0.3728541938287701,
+        "ci_high": 0.6666666666666666
+      },
+      "lesion_sensitivity_difference_vs_b0": {
+        "value": 0.0,
+        "ci_low": 0.0,
+        "ci_high": 0.0
+      },
+      "lesion_ppv": {
+        "value": 0.8481012658227848,
+        "ci_low": 0.7252587991718427,
+        "ci_high": 0.9523809523809523
+      },
+      "lesion_ppv_difference_vs_b0": {
+        "value": 0.0,
+        "ci_low": 0.0,
+        "ci_high": 0.0
+      }
+    },
+    {
+      "scope": "fold2",
+      "method": "p1_ungated",
+      "n": 80,
+      "positive_dice": {
+        "n": 49,
+        "value": 0.49946364051722325,
+        "ci_low": 0.40825463396100165,
+        "ci_high": 0.593093072247443
+      },
+      "all_dice": {
+        "n": 80,
+        "value": 0.5309214798167993,
+        "ci_low": 0.4387635025227029,
+        "ci_high": 0.6136302169198543
+      },
+      "positive_dice_difference_vs_b0": {
+        "n": 49,
+        "value": -0.1532505422100863,
+        "ci_low": -0.20897512635972798,
+        "ci_high": -0.0990472699569083
+      },
+      "negative_specificity": {
+        "n": 31,
+        "value": 0.5806451612903226,
+        "ci_low": 0.41935483870967744,
+        "ci_high": 0.7419354838709677
+      },
+      "specificity_difference_vs_b0": {
+        "n": 31,
+        "value": -0.3225806451612903,
+        "ci_low": -0.4838709677419355,
+        "ci_high": -0.16129032258064516
+      },
+      "negative_fp_mm3": {
+        "n": 31,
+        "value": 488.93548387096774,
+        "ci_low": 55.910483870967745,
+        "ci_high": 977.2629032258063
+      },
+      "roi_coverage": {
+        "roi_et_coverage": {
+          "n": 49,
+          "value": 0.9917463727345576,
+          "ci_low": 0.9752391182036724,
+          "ci_high": 1.0
+        },
+        "oracle_roi_et_coverage": {
+          "n": 49,
+          "value": 0.9964712109627712,
+          "ci_low": 0.9894136328883139,
+          "ci_high": 1.0
+        }
+      },
+      "lesion_sensitivity": {
+        "value": 0.42857142857142855,
+        "ci_low": 0.3281063988095238,
+        "ci_high": 0.5462184873949579
+      },
+      "lesion_sensitivity_difference_vs_b0": {
+        "value": -0.08270676691729323,
+        "ci_low": -0.19811905504444094,
+        "ci_high": 0.022062908496732037
+      },
+      "lesion_ppv": {
+        "value": 0.452991452991453,
+        "ci_low": 0.3333333333333333,
+        "ci_high": 0.5913066853669939
+      },
+      "lesion_ppv_difference_vs_b0": {
+        "value": -0.3951098128313318,
+        "ci_low": -0.544156732460426,
+        "ci_high": -0.23669539394724423
+      }
+    },
+    {
+      "scope": "fold2",
+      "method": "p1_gated",
+      "n": 80,
+      "positive_dice": {
+        "n": 49,
+        "value": 0.14957979681293715,
+        "ci_low": 0.06701048988764137,
+        "ci_high": 0.23308696490386582
+      },
+      "all_dice": {
+        "n": 80,
+        "value": 0.40411762554792396,
+        "ci_low": 0.30179012151836543,
+        "ci_high": 0.5081356077556435
+      },
+      "positive_dice_difference_vs_b0": {
+        "n": 49,
+        "value": -0.5031343859143725,
+        "ci_low": -0.618885050753871,
+        "ci_high": -0.3889248106226318
+      },
+      "negative_specificity": {
+        "n": 31,
+        "value": 0.8064516129032258,
+        "ci_low": 0.6451612903225806,
+        "ci_high": 0.9354838709677419
+      },
+      "specificity_difference_vs_b0": {
+        "n": 31,
+        "value": -0.0967741935483871,
+        "ci_low": -0.25806451612903225,
+        "ci_high": 0.06451612903225806
+      },
+      "negative_fp_mm3": {
+        "n": 31,
+        "value": 286.3225806451613,
+        "ci_low": 6.282258064516129,
+        "ci_high": 677.233870967742
+      },
+      "roi_coverage": {
+        "roi_et_coverage": {
+          "n": 49,
+          "value": 0.9917463727345576,
+          "ci_low": 0.9752391182036724,
+          "ci_high": 1.0
+        },
+        "oracle_roi_et_coverage": {
+          "n": 49,
+          "value": 0.9964712109627712,
+          "ci_low": 0.9894136328883139,
+          "ci_high": 1.0
+        }
+      },
+      "lesion_sensitivity": {
+        "value": 0.12781954887218044,
+        "ci_low": 0.054417813637082736,
+        "ci_high": 0.2320064516129032
+      },
+      "lesion_sensitivity_difference_vs_b0": {
+        "value": -0.38345864661654133,
+        "ci_low": -0.531076377699001,
+        "ci_high": -0.245872979479537
+      },
+      "lesion_ppv": {
+        "value": 0.3611111111111111,
+        "ci_low": 0.19444444444444445,
+        "ci_high": 0.5926215277777775
+      },
+      "lesion_ppv_difference_vs_b0": {
+        "value": -0.4869901547116737,
+        "ci_low": -0.6745850622008099,
+        "ci_high": -0.2536226016546387
+      }
+    }
+  ],
+  "bootstrap": 2000,
+  "seed": 2026,
+  "n": 257
+}

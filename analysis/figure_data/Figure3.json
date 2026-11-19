@@ -1,0 +1,1758 @@
+{
+  "paired_effects": [
+    {
+      "group": "three_seed_mean_case_dice",
+      "aggregation": "mean_of_three_seed_case_metrics",
+      "seed": null,
+      "region": "WT",
+      "scope": "pooled",
+      "source": "all three sources",
+      "subset": "positive",
+      "endpoint_role": "descriptive",
+      "n_cases": 257,
+      "b0_dice": {
+        "mean": 0.8602822263401946,
+        "ci95": [
+          0.8398611319781049,
+          0.8785737726707179
+        ]
+      },
+      "adult_init_dice": {
+        "mean": 0.8666132893859783,
+        "ci95": [
+          0.8481992971917718,
+          0.883513204384336
+        ]
+      },
+      "paired_difference_adult_minus_b0": {
+        "mean": 0.00633106304578374,
+        "ci95": [
+          0.0003306157792663228,
+          0.012305192650743523
+        ]
+      }
+    },
+    {
+      "group": "three_seed_mean_case_dice",
+      "aggregation": "mean_of_three_seed_case_metrics",
+      "seed": null,
+      "region": "TC",
+      "scope": "pooled",
+      "source": "all three sources",
+      "subset": "positive",
+      "endpoint_role": "descriptive",
+      "n_cases": 257,
+      "b0_dice": {
+        "mean": 0.8289652797750259,
+        "ci95": [
+          0.8069168458572931,
+          0.850037335796617
+        ]
+      },
+      "adult_init_dice": {
+        "mean": 0.8367425228566876,
+        "ci95": [
+          0.8167166419384011,
+          0.857124526813144
+        ]
+      },
+      "paired_difference_adult_minus_b0": {
+        "mean": 0.007777243081661744,
+        "ci95": [
+          0.0012989939715646272,
+          0.014341211131323051
+        ]
+      }
+    },
+    {
+      "group": "three_seed_mean_case_dice",
+      "aggregation": "mean_of_three_seed_case_metrics",
+      "seed": null,
+      "region": "ET",
+      "scope": "pooled",
+      "source": "all three sources",
+      "subset": "positive",
+      "endpoint_role": "primary_for_this_replication",
+      "n_cases": 171,
+      "b0_dice": {
+        "mean": 0.5897197476318641,
+        "ci95": [
+          0.5396957677658608,
+          0.6384104338901635
+        ]
+      },
+      "adult_init_dice": {
+        "mean": 0.6085712821339947,
+        "ci95": [
+          0.5622767498226969,
+          0.6543892800020946
+        ]
+      },
+      "paired_difference_adult_minus_b0": {
+        "mean": 0.01885153450213066,
+        "ci95": [
+          0.005430502792590962,
+          0.0322125694049987
+        ]
+      }
+    },
+    {
+      "group": "three_seed_mean_case_dice",
+      "aggregation": "mean_of_three_seed_case_metrics",
+      "seed": null,
+      "region": "NET",
+      "scope": "pooled",
+      "source": "all three sources",
+      "subset": "positive",
+      "endpoint_role": "descriptive",
+      "n_cases": 256,
+      "b0_dice": {
+        "mean": 0.7582439516557965,
+        "ci95": [
+          0.7299977509210565,
+          0.7853699070320337
+        ]
+      },
+      "adult_init_dice": {
+        "mean": 0.7637808870109059,
+        "ci95": [
+          0.7358166926362003,
+          0.7903383148582412
+        ]
+      },
+      "paired_difference_adult_minus_b0": {
+        "mean": 0.005536935355109303,
+        "ci95": [
+          -0.0008118654748315479,
+          0.01182015271885402
+        ]
+      }
+    },
+    {
+      "group": "three_seed_mean_case_dice",
+      "aggregation": "mean_of_three_seed_case_metrics",
+      "seed": null,
+      "region": "CC",
+      "scope": "pooled",
+      "source": "all three sources",
+      "subset": "positive",
+      "endpoint_role": "descriptive",
+      "n_cases": 83,
+      "b0_dice": {
+        "mean": 0.12802546355863717,
+        "ci95": [
+          0.08127454486106905,
+          0.17665628814313433
+        ]
+      },
+      "adult_init_dice": {
+        "mean": 0.14609831427222453,
+        "ci95": [
+          0.09721525365526673,
+          0.19759663652529333
+        ]
+      },
+      "paired_difference_adult_minus_b0": {
+        "mean": 0.018072850713587378,
+        "ci95": [
+          -0.01167148700361184,
+          0.047777281211123956
+        ]
+      }
+    },
+    {
+      "group": "three_seed_mean_case_dice",
+      "aggregation": "mean_of_three_seed_case_metrics",
+      "seed": null,
+      "region": "ED",
+      "scope": "pooled",
+      "source": "all three sources",
+      "subset": "positive",
+      "endpoint_role": "descriptive",
+      "n_cases": 52,
+      "b0_dice": {
+        "mean": 0.2512718755497702,
+        "ci95": [
+          0.18621594724542667,
+          0.31433981296050995
+        ]
+      },
+      "adult_init_dice": {
+        "mean": 0.29034598554853985,
+        "ci95": [
+          0.22561001835671124,
+          0.3540422738877234
+        ]
+      },
+      "paired_difference_adult_minus_b0": {
+        "mean": 0.039074109998769604,
+        "ci95": [
+          0.017831782433513722,
+          0.0634759304507125
+        ]
+      }
+    },
+    {
+      "group": "three_seed_mean_case_dice",
+      "aggregation": "mean_of_three_seed_case_metrics",
+      "seed": null,
+      "region": "WT",
+      "scope": "pooled",
+      "source": "all three sources",
+      "subset": "all",
+      "endpoint_role": "secondary",
+      "n_cases": 257,
+      "b0_dice": {
+        "mean": 0.8602822263401946,
+        "ci95": [
+          0.8398611319781049,
+          0.8785737726707179
+        ]
+      },
+      "adult_init_dice": {
+        "mean": 0.8666132893859783,
+        "ci95": [
+          0.8481992971917718,
+          0.883513204384336
+        ]
+      },
+      "paired_difference_adult_minus_b0": {
+        "mean": 0.00633106304578374,
+        "ci95": [
+          0.0003306157792663228,
+          0.012305192650743523
+        ]
+      }
+    },
+    {
+      "group": "three_seed_mean_case_dice",
+      "aggregation": "mean_of_three_seed_case_metrics",
+      "seed": null,
+      "region": "TC",
+      "scope": "pooled",
+      "source": "all three sources",
+      "subset": "all",
+      "endpoint_role": "secondary",
+      "n_cases": 257,
+      "b0_dice": {
+        "mean": 0.8289652797750259,
+        "ci95": [
+          0.8069168458572931,
+          0.850037335796617
+        ]
+      },
+      "adult_init_dice": {
+        "mean": 0.8367425228566876,
+        "ci95": [
+          0.8167166419384011,
+          0.857124526813144
+        ]
+      },
+      "paired_difference_adult_minus_b0": {
+        "mean": 0.007777243081661744,
+        "ci95": [
+          0.0012989939715646272,
+          0.014341211131323051
+        ]
+      }
+    },
+    {
+      "group": "three_seed_mean_case_dice",
+      "aggregation": "mean_of_three_seed_case_metrics",
+      "seed": null,
+      "region": "ET",
+      "scope": "pooled",
+      "source": "all three sources",
+      "subset": "all",
+      "endpoint_role": "descriptive",
+      "n_cases": 257,
+      "b0_dice": {
+        "mean": 0.6699432302660782,
+        "ci95": [
+          0.6274280976387063,
+          0.7106826586459801
+        ]
+      },
+      "adult_init_dice": {
+        "mean": 0.6967536546494674,
+        "ci95": [
+          0.6550279822246194,
+          0.7354199743153577
+        ]
+      },
+      "paired_difference_adult_minus_b0": {
+        "mean": 0.02681042438338914,
+        "ci95": [
+          0.011366290189514159,
+          0.0420499228181836
+        ]
+      }
+    },
+    {
+      "group": "three_seed_mean_case_dice",
+      "aggregation": "mean_of_three_seed_case_metrics",
+      "seed": null,
+      "region": "NET",
+      "scope": "pooled",
+      "source": "all three sources",
+      "subset": "all",
+      "endpoint_role": "descriptive",
+      "n_cases": 257,
+      "b0_dice": {
+        "mean": 0.7552935860851514,
+        "ci95": [
+          0.7272680228696689,
+          0.782627304492336
+        ]
+      },
+      "adult_init_dice": {
+        "mean": 0.7608089769447155,
+        "ci95": [
+          0.7336092885235439,
+          0.7871934770317943
+        ]
+      },
+      "paired_difference_adult_minus_b0": {
+        "mean": 0.005515390859564128,
+        "ci95": [
+          -0.0008950326033475914,
+          0.01154377397455749
+        ]
+      }
+    },
+    {
+      "group": "three_seed_mean_case_dice",
+      "aggregation": "mean_of_three_seed_case_metrics",
+      "seed": null,
+      "region": "CC",
+      "scope": "pooled",
+      "source": "all three sources",
+      "subset": "all",
+      "endpoint_role": "descriptive",
+      "n_cases": 257,
+      "b0_dice": {
+        "mean": 0.6237073157277571,
+        "ci95": [
+          0.5713032661001852,
+          0.6773499074800653
+        ]
+      },
+      "adult_init_dice": {
+        "mean": 0.6256530223784487,
+        "ci95": [
+          0.5730125921144096,
+          0.6771607136127459
+        ]
+      },
+      "paired_difference_adult_minus_b0": {
+        "mean": 0.0019457066506916438,
+        "ci95": [
+          -0.01638393027997872,
+          0.021355125015098547
+        ]
+      }
+    },
+    {
+      "group": "three_seed_mean_case_dice",
+      "aggregation": "mean_of_three_seed_case_metrics",
+      "seed": null,
+      "region": "ED",
+      "scope": "pooled",
+      "source": "all three sources",
+      "subset": "all",
+      "endpoint_role": "descriptive",
+      "n_cases": 257,
+      "b0_dice": {
+        "mean": 0.7875465792292662,
+        "ci95": [
+          0.7455568796545758,
+          0.8299123288354594
+        ]
+      },
+      "adult_init_dice": {
+        "mean": 0.7734033381914036,
+        "ci95": [
+          0.7305401293770446,
+          0.8171819026883907
+        ]
+      },
+      "paired_difference_adult_minus_b0": {
+        "mean": -0.014143241037862441,
+        "ci95": [
+          -0.03256918018616596,
+          0.0028555608416629906
+        ]
+      }
+    },
+    {
+      "group": "new_seeds_mean_case_dice",
+      "aggregation": "mean_of_new_seed_2027_2028_case_metrics",
+      "seed": null,
+      "region": "WT",
+      "scope": "pooled",
+      "source": "all three sources",
+      "subset": "positive",
+      "endpoint_role": "descriptive",
+      "n_cases": 257,
+      "b0_dice": {
+        "mean": 0.8597584443438856,
+        "ci95": [
+          0.8392697023055397,
+          0.8780639322877609
+        ]
+      },
+      "adult_init_dice": {
+        "mean": 0.8647982732196936,
+        "ci95": [
+          0.8454175722622582,
+          0.8821257640715882
+        ]
+      },
+      "paired_difference_adult_minus_b0": {
+        "mean": 0.005039828875808021,
+        "ci95": [
+          -0.0020725789343325066,
+          0.012049747736794666
+        ]
+      }
+    },
+    {
+      "group": "new_seeds_mean_case_dice",
+      "aggregation": "mean_of_new_seed_2027_2028_case_metrics",
+      "seed": null,
+      "region": "TC",
+      "scope": "pooled",
+      "source": "all three sources",
+      "subset": "positive",
+      "endpoint_role": "descriptive",
+      "n_cases": 257,
+      "b0_dice": {
+        "mean": 0.8292505734363306,
+        "ci95": [
+          0.8074552351708298,
+          0.8511556693922063
+        ]
+      },
+      "adult_init_dice": {
+        "mean": 0.8354931429577429,
+        "ci95": [
+          0.814872686971201,
+          0.8554450978933786
+        ]
+      },
+      "paired_difference_adult_minus_b0": {
+        "mean": 0.006242569521412412,
+        "ci95": [
+          -0.000793830415711267,
+          0.013414640846991297
+        ]
+      }
+    },
+    {
+      "group": "new_seeds_mean_case_dice",
+      "aggregation": "mean_of_new_seed_2027_2028_case_metrics",
+      "seed": null,
+      "region": "ET",
+      "scope": "pooled",
+      "source": "all three sources",
+      "subset": "positive",
+      "endpoint_role": "primary_for_this_replication",
+      "n_cases": 171,
+      "b0_dice": {
+        "mean": 0.5867221341763288,
+        "ci95": [
+          0.5368906782490181,
+          0.636651910833936
+        ]
+      },
+      "adult_init_dice": {
+        "mean": 0.603889694754382,
+        "ci95": [
+          0.5567390558456382,
+          0.6507272671255894
+        ]
+      },
+      "paired_difference_adult_minus_b0": {
+        "mean": 0.017167560578053305,
+        "ci95": [
+          0.000741544649022721,
+          0.03268000269547636
+        ]
+      }
+    },
+    {
+      "group": "new_seeds_mean_case_dice",
+      "aggregation": "mean_of_new_seed_2027_2028_case_metrics",
+      "seed": null,
+      "region": "NET",
+      "scope": "pooled",
+      "source": "all three sources",
+      "subset": "positive",
+      "endpoint_role": "descriptive",
+      "n_cases": 256,
+      "b0_dice": {
+        "mean": 0.7578573521001278,
+        "ci95": [
+          0.7292713218985782,
+          0.7852261091822821
+        ]
+      },
+      "adult_init_dice": {
+        "mean": 0.7626322491217601,
+        "ci95": [
+          0.7339824487974784,
+          0.7887061377206606
+        ]
+      },
+      "paired_difference_adult_minus_b0": {
+        "mean": 0.004774897021632129,
+        "ci95": [
+          -0.0015084730623271497,
+          0.011182174885905245
+        ]
+      }
+    },
+    {
+      "group": "new_seeds_mean_case_dice",
+      "aggregation": "mean_of_new_seed_2027_2028_case_metrics",
+      "seed": null,
+      "region": "CC",
+      "scope": "pooled",
+      "source": "all three sources",
+      "subset": "positive",
+      "endpoint_role": "descriptive",
+      "n_cases": 83,
+      "b0_dice": {
+        "mean": 0.13924745716402998,
+        "ci95": [
+          0.08807563526768557,
+          0.19312056880300937
+        ]
+      },
+      "adult_init_dice": {
+        "mean": 0.14265384239437318,
+        "ci95": [
+          0.0955154668091963,
+          0.19420496201021442
+        ]
+      },
+      "paired_difference_adult_minus_b0": {
+        "mean": 0.0034063852303432103,
+        "ci95": [
+          -0.03139977724019434,
+          0.0370360983492793
+        ]
+      }
+    },
+    {
+      "group": "new_seeds_mean_case_dice",
+      "aggregation": "mean_of_new_seed_2027_2028_case_metrics",
+      "seed": null,
+      "region": "ED",
+      "scope": "pooled",
+      "source": "all three sources",
+      "subset": "positive",
+      "endpoint_role": "descriptive",
+      "n_cases": 52,
+      "b0_dice": {
+        "mean": 0.27028311283060724,
+        "ci95": [
+          0.2025114273978748,
+          0.3393961083087293
+        ]
+      },
+      "adult_init_dice": {
+        "mean": 0.28987070974577367,
+        "ci95": [
+          0.22454324829904018,
+          0.3538593135161975
+        ]
+      },
+      "paired_difference_adult_minus_b0": {
+        "mean": 0.019587596915166414,
+        "ci95": [
+          -0.0065574049643685696,
+          0.05014072825539323
+        ]
+      }
+    },
+    {
+      "group": "new_seeds_mean_case_dice",
+      "aggregation": "mean_of_new_seed_2027_2028_case_metrics",
+      "seed": null,
+      "region": "WT",
+      "scope": "pooled",
+      "source": "all three sources",
+      "subset": "all",
+      "endpoint_role": "secondary",
+      "n_cases": 257,
+      "b0_dice": {
+        "mean": 0.8597584443438856,
+        "ci95": [
+          0.8392697023055397,
+          0.8780639322877609
+        ]
+      },
+      "adult_init_dice": {
+        "mean": 0.8647982732196936,
+        "ci95": [
+          0.8454175722622582,
+          0.8821257640715882
+        ]
+      },
+      "paired_difference_adult_minus_b0": {
+        "mean": 0.005039828875808021,
+        "ci95": [
+          -0.0020725789343325066,
+          0.012049747736794666
+        ]
+      }
+    },
+    {
+      "group": "new_seeds_mean_case_dice",
+      "aggregation": "mean_of_new_seed_2027_2028_case_metrics",
+      "seed": null,
+      "region": "TC",
+      "scope": "pooled",
+      "source": "all three sources",
+      "subset": "all",
+      "endpoint_role": "secondary",
+      "n_cases": 257,
+      "b0_dice": {
+        "mean": 0.8292505734363306,
+        "ci95": [
+          0.8074552351708298,
+          0.8511556693922063
+        ]
+      },
+      "adult_init_dice": {
+        "mean": 0.8354931429577429,
+        "ci95": [
+          0.814872686971201,
+          0.8554450978933786
+        ]
+      },
+      "paired_difference_adult_minus_b0": {
+        "mean": 0.006242569521412412,
+        "ci95": [
+          -0.000793830415711267,
+          0.013414640846991297
+        ]
+      }
+    },
+    {
+      "group": "new_seeds_mean_case_dice",
+      "aggregation": "mean_of_new_seed_2027_2028_case_metrics",
+      "seed": null,
+      "region": "ET",
+      "scope": "pooled",
+      "source": "all three sources",
+      "subset": "all",
+      "endpoint_role": "descriptive",
+      "n_cases": 257,
+      "b0_dice": {
+        "mean": 0.6627606418060398,
+        "ci95": [
+          0.6175762118501296,
+          0.7049202010874445
+        ]
+      },
+      "adult_init_dice": {
+        "mean": 0.6936386684941608,
+        "ci95": [
+          0.6503837347453211,
+          0.7331115651520799
+        ]
+      },
+      "paired_difference_adult_minus_b0": {
+        "mean": 0.030878026688121066,
+        "ci95": [
+          0.012531215606994493,
+          0.04947203933781949
+        ]
+      }
+    },
+    {
+      "group": "new_seeds_mean_case_dice",
+      "aggregation": "mean_of_new_seed_2027_2028_case_metrics",
+      "seed": null,
+      "region": "NET",
+      "scope": "pooled",
+      "source": "all three sources",
+      "subset": "all",
+      "endpoint_role": "descriptive",
+      "n_cases": 257,
+      "b0_dice": {
+        "mean": 0.7549084908079093,
+        "ci95": [
+          0.7268131295270185,
+          0.7821962258306412
+        ]
+      },
+      "adult_init_dice": {
+        "mean": 0.7596648084636987,
+        "ci95": [
+          0.7319215902694903,
+          0.786117754949842
+        ]
+      },
+      "paired_difference_adult_minus_b0": {
+        "mean": 0.004756317655789204,
+        "ci95": [
+          -0.0015071665914478003,
+          0.010811791618987668
+        ]
+      }
+    },
+    {
+      "group": "new_seeds_mean_case_dice",
+      "aggregation": "mean_of_new_seed_2027_2028_case_metrics",
+      "seed": null,
+      "region": "CC",
+      "scope": "pooled",
+      "source": "all three sources",
+      "subset": "all",
+      "endpoint_role": "descriptive",
+      "n_cases": 257,
+      "b0_dice": {
+        "mean": 0.6208464550374104,
+        "ci95": [
+          0.5671836912328473,
+          0.6757530620509998
+        ]
+      },
+      "adult_init_dice": {
+        "mean": 0.6297286728355368,
+        "ci95": [
+          0.5775887950305578,
+          0.6836640964242433
+        ]
+      },
+      "paired_difference_adult_minus_b0": {
+        "mean": 0.008882217798126405,
+        "ci95": [
+          -0.012195359526364491,
+          0.031177065207913655
+        ]
+      }
+    },
+    {
+      "group": "new_seeds_mean_case_dice",
+      "aggregation": "mean_of_new_seed_2027_2028_case_metrics",
+      "seed": null,
+      "region": "ED",
+      "scope": "pooled",
+      "source": "all three sources",
+      "subset": "all",
+      "endpoint_role": "descriptive",
+      "n_cases": 257,
+      "b0_dice": {
+        "mean": 0.7881506687439361,
+        "ci95": [
+          0.7460215780633667,
+          0.8301545441542566
+        ]
+      },
+      "adult_init_dice": {
+        "mean": 0.7668220891314406,
+        "ci95": [
+          0.7206949412449701,
+          0.8111001874423975
+        ]
+      },
+      "paired_difference_adult_minus_b0": {
+        "mean": -0.021328579612495513,
+        "ci95": [
+          -0.04325927574584672,
+          -0.0014901453884320257
+        ]
+      }
+    }
+  ],
+  "source_seed": [
+    {
+      "aggregation": "single_seed",
+      "seed": 2026,
+      "region": "ET",
+      "scope": "fold0",
+      "source": "CBTN",
+      "subset": "positive",
+      "endpoint_role": "primary_for_this_replication",
+      "n_cases": 87,
+      "b0_dice": {
+        "mean": 0.5739785982330349,
+        "ci95": [
+          0.5036816333464262,
+          0.6407457889961877
+        ]
+      },
+      "adult_init_dice": {
+        "mean": 0.5961256484255332,
+        "ci95": [
+          0.5330514373392828,
+          0.655662739890143
+        ]
+      },
+      "paired_difference_adult_minus_b0": {
+        "mean": 0.0221470501924983,
+        "ci95": [
+          -0.0055398495555922375,
+          0.05345748718784496
+        ]
+      }
+    },
+    {
+      "aggregation": "single_seed",
+      "seed": 2027,
+      "region": "ET",
+      "scope": "fold0",
+      "source": "CBTN",
+      "subset": "positive",
+      "endpoint_role": "primary_for_this_replication",
+      "n_cases": 87,
+      "b0_dice": {
+        "mean": 0.5523901399906028,
+        "ci95": [
+          0.48296957585597966,
+          0.6194388920400574
+        ]
+      },
+      "adult_init_dice": {
+        "mean": 0.5610598878038296,
+        "ci95": [
+          0.4917125750879517,
+          0.62701935193651
+        ]
+      },
+      "paired_difference_adult_minus_b0": {
+        "mean": 0.008669747813226835,
+        "ci95": [
+          -0.020762824240916872,
+          0.03566547338052414
+        ]
+      }
+    },
+    {
+      "aggregation": "single_seed",
+      "seed": 2028,
+      "region": "ET",
+      "scope": "fold0",
+      "source": "CBTN",
+      "subset": "positive",
+      "endpoint_role": "primary_for_this_replication",
+      "n_cases": 87,
+      "b0_dice": {
+        "mean": 0.5694083224323094,
+        "ci95": [
+          0.5028461657009868,
+          0.6342074034509484
+        ]
+      },
+      "adult_init_dice": {
+        "mean": 0.574630728025932,
+        "ci95": [
+          0.5063517193123832,
+          0.6385766634339131
+        ]
+      },
+      "paired_difference_adult_minus_b0": {
+        "mean": 0.005222405593622505,
+        "ci95": [
+          -0.030432072143313133,
+          0.03606732858477693
+        ]
+      }
+    },
+    {
+      "aggregation": "single_seed",
+      "seed": 2026,
+      "region": "ET",
+      "scope": "fold1",
+      "source": "DFCI-BCH-BWH-PEDs-HGG",
+      "subset": "positive",
+      "endpoint_role": "primary_for_this_replication",
+      "n_cases": 35,
+      "b0_dice": {
+        "mean": 0.5723008595119061,
+        "ci95": [
+          0.4641840061217347,
+          0.6712497692739047
+        ]
+      },
+      "adult_init_dice": {
+        "mean": 0.6059420291683815,
+        "ci95": [
+          0.5078179887585684,
+          0.6890239752099085
+        ]
+      },
+      "paired_difference_adult_minus_b0": {
+        "mean": 0.03364116965647532,
+        "ci95": [
+          0.002130140258689472,
+          0.07080614415480253
+        ]
+      }
+    },
+    {
+      "aggregation": "single_seed",
+      "seed": 2027,
+      "region": "ET",
+      "scope": "fold1",
+      "source": "DFCI-BCH-BWH-PEDs-HGG",
+      "subset": "positive",
+      "endpoint_role": "primary_for_this_replication",
+      "n_cases": 35,
+      "b0_dice": {
+        "mean": 0.5880162127573462,
+        "ci95": [
+          0.4959929848507077,
+          0.679051756321306
+        ]
+      },
+      "adult_init_dice": {
+        "mean": 0.5876951230817239,
+        "ci95": [
+          0.4857847597676306,
+          0.6821293131018827
+        ]
+      },
+      "paired_difference_adult_minus_b0": {
+        "mean": -0.00032108967562244985,
+        "ci95": [
+          -0.05341947361647916,
+          0.059578941373087245
+        ]
+      }
+    },
+    {
+      "aggregation": "single_seed",
+      "seed": 2028,
+      "region": "ET",
+      "scope": "fold1",
+      "source": "DFCI-BCH-BWH-PEDs-HGG",
+      "subset": "positive",
+      "endpoint_role": "primary_for_this_replication",
+      "n_cases": 35,
+      "b0_dice": {
+        "mean": 0.5722977645730224,
+        "ci95": [
+          0.4668924710974199,
+          0.6667651266641235
+        ]
+      },
+      "adult_init_dice": {
+        "mean": 0.5720883539613035,
+        "ci95": [
+          0.4659771481420549,
+          0.6687428497072857
+        ]
+      },
+      "paired_difference_adult_minus_b0": {
+        "mean": -0.00020941061171909795,
+        "ci95": [
+          -0.022559259037498107,
+          0.022308189909425628
+        ]
+      }
+    },
+    {
+      "aggregation": "single_seed",
+      "seed": 2026,
+      "region": "ET",
+      "scope": "fold2",
+      "source": "DIPGr",
+      "subset": "positive",
+      "endpoint_role": "primary_for_this_replication",
+      "n_cases": 49,
+      "b0_dice": {
+        "mean": 0.6510325003602255,
+        "ci95": [
+          0.5469627504621156,
+          0.7510027702439263
+        ]
+      },
+      "adult_init_dice": {
+        "mean": 0.6652222386699153,
+        "ci95": [
+          0.5586894364300643,
+          0.7671776155780577
+        ]
+      },
+      "paired_difference_adult_minus_b0": {
+        "mean": 0.01418973830968994,
+        "ci95": [
+          -0.006762225901786142,
+          0.04197354888914471
+        ]
+      }
+    },
+    {
+      "aggregation": "single_seed",
+      "seed": 2027,
+      "region": "ET",
+      "scope": "fold2",
+      "source": "DIPGr",
+      "subset": "positive",
+      "endpoint_role": "primary_for_this_replication",
+      "n_cases": 49,
+      "b0_dice": {
+        "mean": 0.6109721530928139,
+        "ci95": [
+          0.5023524002670794,
+          0.7117078484062948
+        ]
+      },
+      "adult_init_dice": {
+        "mean": 0.6715053877926227,
+        "ci95": [
+          0.5706347472893885,
+          0.7650173586762531
+        ]
+      },
+      "paired_difference_adult_minus_b0": {
+        "mean": 0.0605332346998088,
+        "ci95": [
+          0.027817230703143802,
+          0.09613594701840643
+        ]
+      }
+    },
+    {
+      "aggregation": "single_seed",
+      "seed": 2028,
+      "region": "ET",
+      "scope": "fold2",
+      "source": "DIPGr",
+      "subset": "positive",
+      "endpoint_role": "primary_for_this_replication",
+      "n_cases": 49,
+      "b0_dice": {
+        "mean": 0.6635485499877614,
+        "ci95": [
+          0.5600854923081713,
+          0.7615644636449839
+        ]
+      },
+      "adult_init_dice": {
+        "mean": 0.6985511496013258,
+        "ci95": [
+          0.6012481121504348,
+          0.7893079799981013
+        ]
+      },
+      "paired_difference_adult_minus_b0": {
+        "mean": 0.03500259961356452,
+        "ci95": [
+          0.005490834147913037,
+          0.07151617251533322
+        ]
+      }
+    }
+  ],
+  "decomposition": [
+    {
+      "scope": "new_seeds_mean_all_sources",
+      "region": "ET",
+      "seeds": [
+        2027,
+        2028
+      ],
+      "seed_aggregation": "per_case_mean_of_2_seed_metrics",
+      "n_unique_cases": 257,
+      "n_reference_positive": 171,
+      "n_reference_negative": 86,
+      "source_case_counts": {
+        "CBTN": 116,
+        "DFCI-BCH-BWH-PEDs-HGG": 61,
+        "DIPGr": 80
+      },
+      "dice_all": {
+        "b0": 0.6627606418060398,
+        "adult_init": 0.6936386684941608,
+        "difference_adult_minus_b0": 0.030878026688121007,
+        "difference_ci95": [
+          0.012531215606994573,
+          0.04947203933781955
+        ],
+        "bootstrap_valid_draws": 2000,
+        "unit": "proportion"
+      },
+      "dice_positive": {
+        "b0": 0.5867221341763288,
+        "adult_init": 0.603889694754382,
+        "difference_adult_minus_b0": 0.017167560578053243,
+        "difference_ci95": [
+          -0.00023341917670782457,
+          0.03318204445816217
+        ],
+        "bootstrap_valid_draws": 2000,
+        "unit": "proportion"
+      },
+      "dice_delta_decomposition": {
+        "positive_contribution": {
+          "estimate": 0.011422773769833137,
+          "ci95": [
+            -0.00015278918677133046,
+            0.022462939997261254
+          ]
+        },
+        "negative_contribution": {
+          "estimate": 0.019455252918287938,
+          "ci95": [
+            0.0038910505836575876,
+            0.03501945525291829
+          ]
+        },
+        "sum_contributions": 0.030878026688121077,
+        "identity_point_residual": 6.938893903907228e-18,
+        "identity_max_abs_bootstrap_residual": 1.3877787807814457e-17
+      },
+      "reference_negative_audit": {
+        "false_positive_cases": {
+          "b0": 16.0,
+          "adult_init": 11.0,
+          "difference_adult_minus_b0": -5.0,
+          "difference_ci95": [
+            -9.0,
+            -1.0
+          ],
+          "bootstrap_valid_draws": 2000,
+          "unit": "seed-averaged case count"
+        },
+        "specificity": {
+          "b0": 0.813953488372093,
+          "adult_init": 0.872093023255814,
+          "difference_adult_minus_b0": 0.05813953488372092,
+          "difference_ci95": [
+            0.0131536226930964,
+            0.10327081124072111
+          ],
+          "bootstrap_valid_draws": 2000,
+          "unit": "proportion"
+        },
+        "false_positive_volume_total_mm3": {
+          "b0": 7386.5,
+          "adult_init": 8119.5,
+          "difference_adult_minus_b0": 733.0,
+          "difference_ci95": [
+            -765.05,
+            2337.124999999999
+          ],
+          "bootstrap_valid_draws": 2000,
+          "unit": "mm3"
+        },
+        "false_positive_volume_mean_per_negative_case_mm3": {
+          "b0": 85.88953488372093,
+          "adult_init": 94.41279069767442,
+          "difference_adult_minus_b0": 8.523255813953497,
+          "difference_ci95": [
+            -8.946806318681316,
+            26.37893424611224
+          ],
+          "bootstrap_valid_draws": 2000,
+          "unit": "mm3"
+        }
+      },
+      "reference_positive_audit": {
+        "complete_empty_predictions": {
+          "b0": 26.0,
+          "adult_init": 26.5,
+          "difference_adult_minus_b0": 0.5,
+          "difference_ci95": [
+            -3.5,
+            4.5
+          ],
+          "bootstrap_valid_draws": 2000,
+          "unit": "seed-averaged case count"
+        },
+        "complete_empty_prediction_rate": {
+          "b0": 0.15204678362573099,
+          "adult_init": 0.15497076023391812,
+          "difference_adult_minus_b0": 0.0029239766081871343,
+          "difference_ci95": [
+            -0.021739130434782594,
+            0.027108433734939735
+          ],
+          "bootstrap_valid_draws": 2000,
+          "unit": "proportion"
+        }
+      },
+      "connected_component_audit": {
+        "ppv": {
+          "b0": 0.5923632610939112,
+          "adult_init": 0.5646940822467402,
+          "difference_adult_minus_b0": -0.027669178847171016,
+          "difference_ci95": [
+            -0.0911141359670303,
+            0.04211240116253593
+          ],
+          "bootstrap_valid_draws": 2000,
+          "unit": "proportion"
+        },
+        "predicted_components": {
+          "b0": 484.5,
+          "adult_init": 498.5,
+          "difference_adult_minus_b0": 14.0,
+          "difference_ci95": [
+            -56.5,
+            80.01249999999993
+          ],
+          "bootstrap_valid_draws": 2000,
+          "unit": "seed-averaged component count"
+        },
+        "correct_predicted_components": {
+          "b0": 287.0,
+          "adult_init": 281.5,
+          "difference_adult_minus_b0": -5.5,
+          "difference_ci95": [
+            -40.0125,
+            26.5
+          ],
+          "bootstrap_valid_draws": 2000,
+          "unit": "seed-averaged component count"
+        },
+        "false_positive_components": {
+          "b0": 197.5,
+          "adult_init": 217.0,
+          "difference_adult_minus_b0": 19.5,
+          "difference_ci95": [
+            -36.0,
+            76.5
+          ],
+          "bootstrap_valid_draws": 2000,
+          "unit": "seed-averaged component count"
+        }
+      },
+      "finalizer_key": "new_seeds_mean_case_dice",
+      "finalizer_scope": "pooled",
+      "finalizer_seed": null
+    },
+    {
+      "scope": "new_seeds_mean_fold0_CBTN",
+      "region": "ET",
+      "seeds": [
+        2027,
+        2028
+      ],
+      "seed_aggregation": "per_case_mean_of_2_seed_metrics",
+      "n_unique_cases": 116,
+      "n_reference_positive": 87,
+      "n_reference_negative": 29,
+      "source_case_counts": {
+        "CBTN": 116
+      },
+      "dice_all": {
+        "b0": 0.6534330440982473,
+        "adult_init": 0.6543322567982296,
+        "difference_adult_minus_b0": 0.0008992126999822769,
+        "difference_ci95": [
+          -0.019397332464308085,
+          0.01976747502141451
+        ],
+        "bootstrap_valid_draws": 2000,
+        "unit": "proportion"
+      },
+      "dice_positive": {
+        "b0": 0.560899231211456,
+        "adult_init": 0.5678453079148809,
+        "difference_adult_minus_b0": 0.006946076703424842,
+        "difference_ci95": [
+          -0.01886965058636705,
+          0.02948118490157034
+        ],
+        "bootstrap_valid_draws": 2000,
+        "unit": "proportion"
+      },
+      "dice_delta_decomposition": {
+        "positive_contribution": {
+          "estimate": 0.0052095575275685,
+          "ci95": [
+            -0.01392023573197491,
+            0.022324095814606367
+          ]
+        },
+        "negative_contribution": {
+          "estimate": -0.004310344827586207,
+          "ci95": [
+            -0.01293103448275862,
+            0.0
+          ]
+        },
+        "sum_contributions": 0.0008992126999822934,
+        "identity_point_residual": -7.589415207398531e-19,
+        "identity_max_abs_bootstrap_residual": 6.938893903907228e-18
+      },
+      "reference_negative_audit": {
+        "false_positive_cases": {
+          "b0": 2.0,
+          "adult_init": 2.5,
+          "difference_adult_minus_b0": 0.5,
+          "difference_ci95": [
+            0.0,
+            1.5
+          ],
+          "bootstrap_valid_draws": 2000,
+          "unit": "seed-averaged case count"
+        },
+        "specificity": {
+          "b0": 0.9310344827586207,
+          "adult_init": 0.9137931034482758,
+          "difference_adult_minus_b0": -0.017241379310344834,
+          "difference_ci95": [
+            -0.05715659340659333,
+            -0.0
+          ],
+          "bootstrap_valid_draws": 2000,
+          "unit": "proportion"
+        },
+        "false_positive_volume_total_mm3": {
+          "b0": 1070.0,
+          "adult_init": 1172.5,
+          "difference_adult_minus_b0": 102.5,
+          "difference_ci95": [
+            -576.0,
+            883.5
+          ],
+          "bootstrap_valid_draws": 2000,
+          "unit": "mm3"
+        },
+        "false_positive_volume_mean_per_negative_case_mm3": {
+          "b0": 36.89655172413793,
+          "adult_init": 40.43103448275862,
+          "difference_adult_minus_b0": 3.5344827586206904,
+          "difference_ci95": [
+            -17.64076704545455,
+            29.35249999999999
+          ],
+          "bootstrap_valid_draws": 2000,
+          "unit": "mm3"
+        }
+      },
+      "reference_positive_audit": {
+        "complete_empty_predictions": {
+          "b0": 13.0,
+          "adult_init": 13.0,
+          "difference_adult_minus_b0": 0.0,
+          "difference_ci95": [
+            -3.0,
+            2.5
+          ],
+          "bootstrap_valid_draws": 2000,
+          "unit": "seed-averaged case count"
+        },
+        "complete_empty_prediction_rate": {
+          "b0": 0.14942528735632185,
+          "adult_init": 0.14942528735632185,
+          "difference_adult_minus_b0": 0.0,
+          "difference_ci95": [
+            -0.03409090909090909,
+            0.03126662234042544
+          ],
+          "bootstrap_valid_draws": 2000,
+          "unit": "proportion"
+        }
+      },
+      "connected_component_audit": {
+        "ppv": {
+          "b0": 0.6892950391644909,
+          "adult_init": 0.6517647058823529,
+          "difference_adult_minus_b0": -0.03753033328213795,
+          "difference_ci95": [
+            -0.11804215855052515,
+            0.04735014704670329
+          ],
+          "bootstrap_valid_draws": 2000,
+          "unit": "proportion"
+        },
+        "predicted_components": {
+          "b0": 191.5,
+          "adult_init": 212.5,
+          "difference_adult_minus_b0": 21.0,
+          "difference_ci95": [
+            -10.0,
+            56.0
+          ],
+          "bootstrap_valid_draws": 2000,
+          "unit": "seed-averaged component count"
+        },
+        "correct_predicted_components": {
+          "b0": 132.0,
+          "adult_init": 138.5,
+          "difference_adult_minus_b0": 6.5,
+          "difference_ci95": [
+            -12.0,
+            26.5
+          ],
+          "bootstrap_valid_draws": 2000,
+          "unit": "seed-averaged component count"
+        },
+        "false_positive_components": {
+          "b0": 59.5,
+          "adult_init": 74.0,
+          "difference_adult_minus_b0": 14.5,
+          "difference_ci95": [
+            -9.5,
+            42.01249999999993
+          ],
+          "bootstrap_valid_draws": 2000,
+          "unit": "seed-averaged component count"
+        }
+      },
+      "finalizer_key": "new_seeds_mean_case_dice",
+      "finalizer_scope": "fold0",
+      "finalizer_seed": null
+    },
+    {
+      "scope": "new_seeds_mean_fold1_DFCI-BCH-BWH-PEDs-HGG",
+      "region": "ET",
+      "seeds": [
+        2027,
+        2028
+      ],
+      "seed_aggregation": "per_case_mean_of_2_seed_metrics",
+      "n_unique_cases": 61,
+      "n_reference_positive": 35,
+      "n_reference_negative": 26,
+      "source_case_counts": {
+        "DFCI-BCH-BWH-PEDs-HGG": 61
+      },
+      "dice_all": {
+        "b0": 0.5869753213652698,
+        "adult_init": 0.6769870630861143,
+        "difference_adult_minus_b0": 0.09001174172084458,
+        "difference_ci95": [
+          0.028816961718419423,
+          0.15922085706525382
+        ],
+        "bootstrap_valid_draws": 2000,
+        "unit": "proportion"
+      },
+      "dice_positive": {
+        "b0": 0.5801569886651843,
+        "adult_init": 0.5798917385215135,
+        "difference_adult_minus_b0": -0.0002652501436707366,
+        "difference_ci95": [
+          -0.03158582567395112,
+          0.03373566489767451
+        ],
+        "bootstrap_valid_draws": 2000,
+        "unit": "proportion"
+      },
+      "dice_delta_decomposition": {
+        "positive_contribution": {
+          "estimate": -0.0001521927053848648,
+          "ci95": [
+            -0.01834464770094784,
+            0.01913510672234433
+          ]
+        },
+        "negative_contribution": {
+          "estimate": 0.09016393442622951,
+          "ci95": [
+            0.03278688524590164,
+            0.1557377049180328
+          ]
+        },
+        "sum_contributions": 0.09001174172084464,
+        "identity_point_residual": -1.3877787807814457e-17,
+        "identity_max_abs_bootstrap_residual": 5.551115123125783e-17
+      },
+      "reference_negative_audit": {
+        "false_positive_cases": {
+          "b0": 10.5,
+          "adult_init": 5.0,
+          "difference_adult_minus_b0": -5.5,
+          "difference_ci95": [
+            -9.5,
+            -2.0
+          ],
+          "bootstrap_valid_draws": 2000,
+          "unit": "seed-averaged case count"
+        },
+        "specificity": {
+          "b0": 0.5961538461538461,
+          "adult_init": 0.8076923076923077,
+          "difference_adult_minus_b0": 0.21153846153846154,
+          "difference_ci95": [
+            0.07999999999999999,
+            0.3571428571428571
+          ],
+          "bootstrap_valid_draws": 2000,
+          "unit": "proportion"
+        },
+        "false_positive_volume_total_mm3": {
+          "b0": 1740.5,
+          "adult_init": 1827.5,
+          "difference_adult_minus_b0": 87.0,
+          "difference_ci95": [
+            -492.1125,
+            767.5124999999999
+          ],
+          "bootstrap_valid_draws": 2000,
+          "unit": "mm3"
+        },
+        "false_positive_volume_mean_per_negative_case_mm3": {
+          "b0": 66.9423076923077,
+          "adult_init": 70.28846153846153,
+          "difference_adult_minus_b0": 3.3461538461538396,
+          "difference_ci95": [
+            -19.949166666666663,
+            29.290409919028342
+          ],
+          "bootstrap_valid_draws": 2000,
+          "unit": "mm3"
+        }
+      },
+      "reference_positive_audit": {
+        "complete_empty_predictions": {
+          "b0": 4.0,
+          "adult_init": 6.0,
+          "difference_adult_minus_b0": 2.0,
+          "difference_ci95": [
+            0.5,
+            4.0
+          ],
+          "bootstrap_valid_draws": 2000,
+          "unit": "seed-averaged case count"
+        },
+        "complete_empty_prediction_rate": {
+          "b0": 0.11428571428571428,
+          "adult_init": 0.17142857142857143,
+          "difference_adult_minus_b0": 0.05714285714285715,
+          "difference_ci95": [
+            0.012500000000000011,
+            0.11628875968992242
+          ],
+          "bootstrap_valid_draws": 2000,
+          "unit": "proportion"
+        }
+      },
+      "connected_component_audit": {
+        "ppv": {
+          "b0": 0.4014251781472684,
+          "adult_init": 0.32857142857142857,
+          "difference_adult_minus_b0": -0.07285374957583984,
+          "difference_ci95": [
+            -0.15690051076349773,
+            0.04567604848116029
+          ],
+          "bootstrap_valid_draws": 2000,
+          "unit": "proportion"
+        },
+        "predicted_components": {
+          "b0": 210.5,
+          "adult_init": 175.0,
+          "difference_adult_minus_b0": -35.5,
+          "difference_ci95": [
+            -94.5125,
+            23.0
+          ],
+          "bootstrap_valid_draws": 2000,
+          "unit": "seed-averaged component count"
+        },
+        "correct_predicted_components": {
+          "b0": 84.5,
+          "adult_init": 57.5,
+          "difference_adult_minus_b0": -27.0,
+          "difference_ci95": [
+            -55.0,
+            -8.5
+          ],
+          "bootstrap_valid_draws": 2000,
+          "unit": "seed-averaged component count"
+        },
+        "false_positive_components": {
+          "b0": 126.0,
+          "adult_init": 117.5,
+          "difference_adult_minus_b0": -8.5,
+          "difference_ci95": [
+            -57.0125,
+            44.0
+          ],
+          "bootstrap_valid_draws": 2000,
+          "unit": "seed-averaged component count"
+        }
+      },
+      "finalizer_key": "new_seeds_mean_case_dice",
+      "finalizer_scope": "fold1",
+      "finalizer_seed": null
+    },
+    {
+      "scope": "new_seeds_mean_fold2_DIPGr",
+      "region": "ET",
+      "seeds": [
+        2027,
+        2028
+      ],
+      "seed_aggregation": "per_case_mean_of_2_seed_metrics",
+      "n_unique_cases": 80,
+      "n_reference_positive": 49,
+      "n_reference_negative": 31,
+      "source_case_counts": {
+        "DIPGr": 80
+      },
+      "dice_all": {
+        "b0": 0.7340719653184261,
+        "adult_init": 0.7633298145768966,
+        "difference_adult_minus_b0": 0.029257849258470525,
+        "difference_ci95": [
+          0.012385073914848771,
+          0.050037894840704936
+        ],
+        "bootstrap_valid_draws": 2000,
+        "unit": "proportion"
+      },
+      "dice_positive": {
+        "b0": 0.6372603515402876,
+        "adult_init": 0.6850282686969741,
+        "difference_adult_minus_b0": 0.04776791715668649,
+        "difference_ci95": [
+          0.020782247415252596,
+          0.07885679718432367
+        ],
+        "bootstrap_valid_draws": 2000,
+        "unit": "proportion"
+      },
+      "dice_delta_decomposition": {
+        "positive_contribution": {
+          "estimate": 0.02925784925847059,
+          "ci95": [
+            0.01238507391484881,
+            0.05003789484070502
+          ]
+        },
+        "negative_contribution": {
+          "estimate": 0.0,
+          "ci95": [
+            0.0,
+            0.0
+          ]
+        },
+        "sum_contributions": 0.02925784925847059,
+        "identity_point_residual": 0.0,
+        "identity_max_abs_bootstrap_residual": 0.0
+      },
+      "reference_negative_audit": {
+        "false_positive_cases": {
+          "b0": 3.5,
+          "adult_init": 3.5,
+          "difference_adult_minus_b0": 0.0,
+          "difference_ci95": [
+            0.0,
+            0.0
+          ],
+          "bootstrap_valid_draws": 2000,
+          "unit": "seed-averaged case count"
+        },
+        "specificity": {
+          "b0": 0.8870967741935484,
+          "adult_init": 0.8870967741935484,
+          "difference_adult_minus_b0": -0.0,
+          "difference_ci95": [
+            -0.0,
+            -0.0
+          ],
+          "bootstrap_valid_draws": 2000,
+          "unit": "proportion"
+        },
+        "false_positive_volume_total_mm3": {
+          "b0": 4576.0,
+          "adult_init": 5119.5,
+          "difference_adult_minus_b0": 543.5,
+          "difference_ci95": [
+            -546.5,
+            1965.0
+          ],
+          "bootstrap_valid_draws": 2000,
+          "unit": "mm3"
+        },
+        "false_positive_volume_mean_per_negative_case_mm3": {
+          "b0": 147.61290322580646,
+          "adult_init": 165.1451612903226,
+          "difference_adult_minus_b0": 17.532258064516128,
+          "difference_ci95": [
+            -19.730769230769226,
+            60.6439153439153
+          ],
+          "bootstrap_valid_draws": 2000,
+          "unit": "mm3"
+        }
+      },
+      "reference_positive_audit": {
+        "complete_empty_predictions": {
+          "b0": 9.0,
+          "adult_init": 7.5,
+          "difference_adult_minus_b0": -1.5,
+          "difference_ci95": [
+            -4.5,
+            0.5124999999999318
+          ],
+          "bootstrap_valid_draws": 2000,
+          "unit": "seed-averaged case count"
+        },
+        "complete_empty_prediction_rate": {
+          "b0": 0.1836734693877551,
+          "adult_init": 0.15306122448979592,
+          "difference_adult_minus_b0": -0.03061224489795919,
+          "difference_ci95": [
+            -0.08823529411764705,
+            0.013572501072500751
+          ],
+          "bootstrap_valid_draws": 2000,
+          "unit": "proportion"
+        }
+      },
+      "connected_component_audit": {
+        "ppv": {
+          "b0": 0.8545454545454545,
+          "adult_init": 0.7702702702702703,
+          "difference_adult_minus_b0": -0.08427518427518421,
+          "difference_ci95": [
+            -0.1506007545998812,
+            -0.021780432083132392
+          ],
+          "bootstrap_valid_draws": 2000,
+          "unit": "proportion"
+        },
+        "predicted_components": {
+          "b0": 82.5,
+          "adult_init": 111.0,
+          "difference_adult_minus_b0": 28.5,
+          "difference_ci95": [
+            12.5,
+            47.0
+          ],
+          "bootstrap_valid_draws": 2000,
+          "unit": "seed-averaged component count"
+        },
+        "correct_predicted_components": {
+          "b0": 70.5,
+          "adult_init": 85.5,
+          "difference_adult_minus_b0": 15.0,
+          "difference_ci95": [
+            2.0,
+            31.5
+          ],
+          "bootstrap_valid_draws": 2000,
+          "unit": "seed-averaged component count"
+        },
+        "false_positive_components": {
+          "b0": 12.0,
+          "adult_init": 25.5,
+          "difference_adult_minus_b0": 13.5,
+          "difference_ci95": [
+            5.5,
+            23.0
+          ],
+          "bootstrap_valid_draws": 2000,
+          "unit": "seed-averaged component count"
+        }
+      },
+      "finalizer_key": "new_seeds_mean_case_dice",
+      "finalizer_scope": "fold2",
+      "finalizer_seed": null
+    }
+  ],
+  "uncertainty": "All 24 original paired case-bootstrap confidence intervals retained without recalculation."
+}
